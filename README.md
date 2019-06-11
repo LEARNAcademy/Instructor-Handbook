@@ -85,7 +85,7 @@ Google drive contains many of the documents related to non-curriculum related ta
 
 ### Meetings
 
-There are two meetings that instructors are regularly a part of. What follows is a breakdown of what those meetings.
+There are two meetings that instructors are regularly a part of. What follows is a breakdown of those meetings.
 
 #### Staff Meetings
 
