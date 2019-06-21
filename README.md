@@ -161,3 +161,32 @@ Typically, defective computer equipment is assessed by Rob before disposal. Larg
 When there is an incoming class, we re-image all the machines in classroom that will serve as their lab. The process is documented here under  the first item 'Imaging Machines': [LEARN Classroom Setup Mac Mini](https://docs.google.com/document/d/1yZ1iNVaLKyDg6CTkNHZ0TdscdoYeQvczLaZKWibYfY0/edit#heading=h.efghimpqj7mi)
 
 This is generally handled by the more senior Learn instructors.
+
+## Day to Day Tasks
+
+There are several tasks that instructing staff share. What tasks you ultimately take lead on will usually depend on your strengths the role that suites you on the team.
+
+Here is a broad breakdown of those tasks:
+
+**Classroom Operations**
+
+- Daily Schedule
+- Attendance
+- Instruction
+- Assessments
+- Student One on ones
+- Fireside Chats
+
+**Admin/Facilitation**
+- Classroom Inventory
+- Station Inventory
+- Attendance Issues
+- Tuesday Yoga Setup
+- PD Schedule Coordination
+- Station Imaging
+
+**Jumpstart**
+- Instructor/TA Scheduling
+- Meal planning
+- Jump Drive Setup
+- Curriculum Folders
