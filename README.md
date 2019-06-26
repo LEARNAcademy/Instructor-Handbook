@@ -4,6 +4,22 @@ This document is intended to help get you up to speed and navigating the classro
 
 ## Instruction
 
+### First Day of a Cohort
+The first day for the students is very structured with presentations, ice breakers and coding.  The instructors help prepare for this with the following tasks.
+
+- Reviewing Profiles of Incoming students
+- Setting up any documents that will be used (attendance, assessments, lesson plans, etc)
+- Reviewing the detailed first day schedule and assigning staff members to presentations/activities
+- Communication with staff members about who is assigned to facilitate presentations/activities(Meeting, Slack)
+- Lesson planning for first week (topics and facilitators)
+
+Here is the first day document that is used to plan presentations and who will be facilitating those.  
+
+
+[ First Day Schedule ]()
+
+
+
 ###  Daily Schedule
 The general layout of the day looks like this:
 
@@ -103,7 +119,7 @@ It's worth noting that many of the above items are often done ad hoc throughout 
 
 ### Communication Tools
 
-#### Slack 
+#### Slack
 
 Slack is the main channel of communication within Learn. You will use it to coordinate both with staff and students.
 
@@ -173,7 +189,7 @@ Here is a broad breakdown of those tasks:
 - Daily Schedule
 - Attendance
 - Instruction
-- Assessments
+- Grading Assessments
 - Student One on ones
 - Fireside Chats
 
@@ -186,7 +202,10 @@ Here is a broad breakdown of those tasks:
 - Station Imaging
 
 **Jumpstart**
-- Instructor/TA Scheduling
+- Instructor/ TA / Admin Scheduling
+- Monday Email to Participants
+- Communication via Slack for All Involved
 - Meal planning
+- Food ordering and delivery
 - Jump Drive Setup
 - Curriculum Folders
