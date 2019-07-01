@@ -7,7 +7,7 @@ This document is intended to help get you up to speed and navigating the classro
 ### First Day of a Cohort
 The first day for the students is very structured with presentations, ice breakers and coding.  The instructors help prepare for this with the following tasks.
 
-- Reviewing Profiles of Incoming students
+- Reviewing profiles of incoming students
 - Setting up any documents that will be used (attendance, assessments, lesson plans, etc)
 - Reviewing the detailed first day schedule and assigning staff members to presentations/activities
 - Communication with staff members about who is assigned to facilitate presentations/activities(Meeting, Slack)
@@ -16,7 +16,7 @@ The first day for the students is very structured with presentations, ice breake
 Here is the first day document that is used to plan presentations and who will be facilitating those.  
 
 
-[ First Day Schedule ]()
+[ First Day Schedule ](https://docs.google.com/document/d/18s3qxbxNlvxBxlJWaXTO8ovuexeGuT9eYH5zQ8wW2Yc/edit?usp=sharing)
 
 
 
