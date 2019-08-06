@@ -2,6 +2,21 @@
 
 This document is intended to help get you up to speed and navigating the classroom with confidence. It is more guide than it is directive. As such, use it as a foundation to work from and add your personal flare to.
 
+## Table of Contents
+
+- [ Instruction ](#instruction)
+    - [ First Day of a Cohort ](#first-day-of-a-cohort)
+    - [ Daily Schedule ](#daily-schedule)
+    - [ The Syllabus ](#the-syllabus)
+    - [ Lesson Planning ](#lesson-planning)
+    - [ Classroom Facilitation ](#classroom-facilitation)
+- [ Classroom Tools ](#classroom-tools)
+- [ Operations ](#operations)
+    - [ Meetings ](#meetings)
+    - [ Inventory ](#inventory)
+- [ Day to Day Tasks](#day-to-day-tasks)
+- [ Capstone Projects Tasks ](#capstone-projects-tasks)
+
 ## Instruction
 
 ### First Day of a Cohort
