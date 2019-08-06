@@ -18,6 +18,8 @@ Here is the first day document that is used to plan presentations and who will b
 
 [ First Day Schedule ](https://docs.google.com/document/d/18s3qxbxNlvxBxlJWaXTO8ovuexeGuT9eYH5zQ8wW2Yc/edit?usp=sharing)
 
+[ First Day Presentations (Google Drive) ](https://drive.google.com/drive/folders/1SZhhS4ff-v_Yht9GDIYuMDmAzwBOy9Kf)
+
 
 
 ###  Daily Schedule
@@ -209,3 +211,47 @@ Here is a broad breakdown of those tasks:
 - Food ordering and delivery
 - Jump Drive Setup
 - Curriculum Folders
+
+## Capstone Projects Tasks
+
+The role and tasks of the instructor during the Capstone Project weeks changes quite a bit. Here are some resources to help get you prepared for those weeks:
+
+**In preparation for Capstone Projects, instructors:**
+- Create groups
+- Schedule the Agile/Scrum Presentation
+- Present project requirements
+- Present groups
+- Facilitate the project planning process
+
+The requirements of the capstone project are established in a Capstone Project Spec document presented before they are assigned groups.
+
+
+### Requirements
+
+A template of that doc is here:
+[ Capstone Projects Specs Template ](https://docs.google.com/document/d/1TzvKHFWc4VZB0Qa97pgO0RX6jaAuOCvpq77fFtC9ji0/edit)
+
+
+### Instructor Tasks
+
+During the capstone weeks instructors:
+
+- Participate in and help moderate morning stand-ups
+- Conduct code reviews
+- Provide additional lessons (where applicable)
+
+The main capstone project days themselves are essentially lab days with few to no lessons. The first day has a bit more structure.
+
+**First Day**
+
+The order sometimes varies, but these are the checkpoints:
+
+- Agile Talk
+- Break out into groups
+    - Decide on project
+    - Determine MVP
+    - Create wireframes
+    - Create user stories
+    - Create repo
+    - All group members added to the project repo
+      
