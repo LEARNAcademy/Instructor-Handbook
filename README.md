@@ -199,7 +199,7 @@ This is generally handled by the more senior Learn instructors.
 
 ## Day to Day Tasks
 
-There are several tasks that instructing staff share. What tasks you ultimately take lead on will usually depend on your strengths the role that suites you on the team.
+There are several tasks that instructing staff share. What tasks you ultimately take lead on will usually depend on your strengths and the role that suites you on the team.
 
 Here is a broad breakdown of those tasks:
 
