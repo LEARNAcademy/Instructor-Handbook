@@ -1,6 +1,6 @@
 # Guide to Classroom Admin (Trello Board)
 
-The Classroom Admin board helps the admin and the intructor staff track just about all efforts and tasks related to the running of classroom activities.
+The Classroom Admin board helps the admin and the instructor staff track just about all efforts and tasks related to the running of classroom activities.
 
 If you are pretty familiar with Trello, you can probably head straight to the [ Board ](https://trello.com/b/dQBMlYpI/classroom-admin) and check out what's there to get a feel for how it's set up. Otherwise, what follows is intended to be sort of a tour of the board.
 
