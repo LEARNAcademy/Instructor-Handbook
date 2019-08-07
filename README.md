@@ -10,7 +10,7 @@ This document is intended to help get you up to speed and navigating the classro
     - [ The Syllabus ](#the-syllabus)
     - [ Lesson Planning ](#lesson-planning)
     - [ Classroom Facilitation ](#classroom-facilitation)
-- [ Classroom Tools ](#classroom-tools)
+- [ Instructor Tools ](#instructor-tools)
 - [ Operations ](#operations)
     - [ Meetings ](#meetings)
     - [ Inventory ](#inventory)
@@ -159,6 +159,8 @@ You will eventually join other channels as well including various cohort channel
 Trello is used throughout Learn to track our tasks and objectives.
 
 The classroom and curriculum tasks are tracked here: [ Classroom Admin Trello Board ](https://trello.com/b/dQBMlYpI/classroom-admin)
+
+For a guide to the Classroom Admin Trello board, follow this link: [ Guide to Classroom Trello ](./classroom-admin-trello.md)
 
 Be sure to ask to be added to the following boards if interested:
 
