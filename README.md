@@ -271,4 +271,13 @@ The order sometimes varies, but these are the checkpoints:
     - Create user stories
     - Create repo
     - All group members added to the project repo
+
+***After* the First Day** of capstone projects there are a few checkpoints building up to the **Final Client Check In**:
+
+- **Day two**: First Deploy
+- **End of week one**: First Client Check In
+- **Mid week 2**: Mini Client Check in
+- **End of week 2**: Final Client Check In
+
+Ideally, the projects are fully deployed *prior* to the Final Client Check In.
       
