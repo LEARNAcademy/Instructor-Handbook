@@ -275,7 +275,7 @@ The order sometimes varies, but these are the checkpoints:
 ***After* the First Day** of capstone projects there are a few checkpoints building up to the **Final Client Check In**:
 
 - **Day two**: First Deploy
-- **End of week one**: First Client Check In
+- **End of week one**: First Client Check In/Second Deploy
 - **Mid week 2**: Mini Client Check in
 - **End of week 2**: Final Client Check In
 
