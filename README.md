@@ -117,14 +117,11 @@ Google drive contains many of the documents related to non-curriculum related ta
 #### HubSpot
 
 HubSpot is used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the One-on-One meetings that take place twice a during a cohort, typically in Week 3 and Week 8. To access HubSpot you will need to:
-- Log in to the LEARN account (Hillary can handle the setup)
-- Search for the student's name in the top search bar
-- On the student's profile, click `Actions`
-- On the drop down menu select `View all properties`
-- Scroll all the way to the bottom of the `All properties` page
-- Under the `1 on 1 Questions` bar add to the appropriate `Meeting 1` or `Meeting 2`
+- Follow [this link](./https://docs.google.com/forms/d/e/1FAIpQLSfXeTc41fmtYuk8gF72a8nMN5T1gRUQYUaAQ98RKHGifZSWVA/viewform?vc=0&c=0&w=1) to a google form
+- Enter the student's email
+- Select the appropriate Meeting (1 or 2)
 - Include the date, the name of the person who conducted the One-on-One, and any pertinent details
-- Save changes! Woo!
+- Submit! Woo!
 
 ## Operations
 
