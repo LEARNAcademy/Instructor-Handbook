@@ -204,9 +204,15 @@ Typically, defective computer equipment is assessed by Rob before disposal. Larg
 
 #### Machine Imaging
 
+##### Classroom Machines
+
 When there is an incoming class, we re-image all the machines in classroom that will serve as their lab. The process is documented here under  the first item 'Imaging Machines': [LEARN Classroom Setup Mac Mini](https://docs.google.com/document/d/1yZ1iNVaLKyDg6CTkNHZ0TdscdoYeQvczLaZKWibYfY0/edit#heading=h.efghimpqj7mi)
 
 This is generally handled by the more senior Learn instructors.
+
+##### LEARN Loaner Machines
+
+LEARN has Mac laptops available for students to borrow during the month of their internship if needed. After each use the machine needs to be re-imaged. The process is documented [here](https://docs.google.com/document/d/1gNE-rdnkEMpRpYscRg4jb5H13SpevpazLd5_q1cMKtA/edit).
 
 ## Day to Day Tasks
 
