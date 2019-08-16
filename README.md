@@ -306,3 +306,27 @@ The order sometimes varies, but these are the checkpoints:
 - **End of week 2**: Final Client Check In
 
 Ideally, the projects are fully deployed *prior* to the Final Client Check In.
+
+**Code Reviews (Reviewing Pull Requests)**
+
+Reviewing pull requests on the capstone projects becomes a one of the main tasks for instructors during this phase of the program. It is an opportunity for instructors to fill in some of the best practice gaps and work in the some real world conceptual and domain knowledge.
+
+Comment up those PRs!
+
+It is expected that you will bring your best practices with you along with your PR standards, some of which may be listed here. But you can start with these:
+
+- Address formatting issues
+- Recommend deleting broken/incomplete/commented out code
+- Draw attention to opportunities to refactor (DRY up or otherwise clean up implementation)
+- Recommend removing logs (console.log()/puts/pp)
+
+**Client Check Ins**
+
+Client check ins are an opportunity for instructors to figure out where the projects are, guide steps forward, and help teams narrow the scope of their projects.
+
+The process sometimes varies but looks something like this:
+
+- Examine completed features
+- Examine and update user stories (on Trello) with feedback from first look
+- Examine remaining stories
+- Refine and/or prioritize remaining stories
