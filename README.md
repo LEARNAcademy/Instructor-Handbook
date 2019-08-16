@@ -110,6 +110,8 @@ Github Classroom essentially allows us to track student work throughout the cour
 
 Here assignments are created for a cohort organization and links are generated that, when clicked by student, triggers the generation of a repo for that project within the cohort organization.
 
+[Weekly individual assessments](#grading-assessments) are assigned each Friday via GitHub Classroom.
+
 #### Google Drive
 
 Google drive contains many of the documents related to non-curriculum related tasks. It contains documents to help you track lesson plans, inventory, first day schedules, and a host of other things.
@@ -237,6 +239,15 @@ Here is a broad breakdown of those tasks:
 - Food ordering and delivery
 - Jump Drive Setup
 - Curriculum Folders
+
+### Grading Assessments
+Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. Full details of the [assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. Once submitted, the instructors:
+-  Review the code and short answers and give feedback with comments in GitHub
+- If the assessment is complete and up to par, the instructor can approve the request
+- If the code needs improvement, leave specific comments and `request changes` in GitHub
+- Once the pull request is approved, the student will merge their code to master and their assessment is complete
+- To track this process, a google form [like this](https://docs.google.com/spreadsheets/d/1yuCX35WVoLucztOmAgs_8pDH_LeQvLlhY7RE80ljqhc/edit#gid=0) is kept in the LEARN drive
+- Assessments serve as a tool to identify students who need may need additional help or one-on-one attention
 
 ## Capstone Projects Tasks
 
