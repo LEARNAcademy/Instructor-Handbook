@@ -318,7 +318,7 @@ It is expected that you will bring your best practices with you along with your 
 - Address formatting issues
 - Recommend deleting broken/incomplete/commented out code
 - Draw attention to opportunities to refactor (DRY up or otherwise clean up implementation)
-- Recommend removing logs (console.log()/puts/pp)
+- Recommend removing logs (`console.log()`/`puts`/`pp`)
 
 **Client Check Ins**
 
