@@ -330,3 +330,21 @@ The process sometimes varies but looks something like this:
 - Examine and update user stories (on Trello) with feedback from first look
 - Examine remaining stories
 - Refine and/or prioritize remaining stories
+
+**Issues During Capstone Projects**
+
+Capstone projects typically present new challenges for students particularly in regards to project management and working on a bigger team. More often than not, when expectations are clearly set (project requirements/process) the projects run pretty smoothly even with the new development hurdles students face. 
+
+Still, conflict may arise but may be mitigated at more ideal times if warning signs are caught early on.
+
+Though not always signs of trouble here are some of the **warning signs** that may indicate issues within a group:
+
+- Silos (if it's causing a persistent bottleneck)
+- Lack of pull requests from group/individuals
+- No requests for code reviews
+- Repeatedly getting in late/missing stand up
+- Repeatedly leaving early
+- Break down of communication
+    - Committing over each others' work
+    - No clear understanding of what teammates are working on
+
