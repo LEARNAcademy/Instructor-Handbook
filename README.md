@@ -114,6 +114,15 @@ Here assignments are created for a cohort organization and links are generated t
 
 Google drive contains many of the documents related to non-curriculum related tasks. It contains documents to help you track lesson plans, inventory, first day schedules, and a host of other things.
 
+#### HubSpot
+
+HubSpot is LEARN's CRM (Customer Relationship Management) used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the One-on-One meetings that take place twice a during a cohort, typically in Week 3 and Week 8. To access HubSpot you will need to:
+- Follow [this link](https://docs.google.com/forms/d/e/1FAIpQLSfXeTc41fmtYuk8gF72a8nMN5T1gRUQYUaAQ98RKHGifZSWVA/viewform?vc=0&c=0&w=1) to a google form
+- Enter the student's email
+- Select the appropriate Meeting (1 or 2)
+- Include the date, the name of the person who conducted the One-on-One, and any pertinent details
+- Submit! Woo!
+
 ## Operations
 
 ### Meetings
@@ -280,4 +289,3 @@ The order sometimes varies, but these are the checkpoints:
 - **End of week 2**: Final Client Check In
 
 Ideally, the projects are fully deployed *prior* to the Final Client Check In.
-      
