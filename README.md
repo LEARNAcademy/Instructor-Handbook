@@ -223,19 +223,19 @@ Here is a broad breakdown of those tasks:
 **Classroom Operations**
 
 - Daily Schedule
-- Attendance
+- [Attendance](#attendance)
 - Instruction
-- Grading Assessments
-- Student One on ones
+- [Grading Assessments](#grading-assessments)
+- [Student One on ones](#hubSpot)
 - Fireside Chats
 
 **Admin/Facilitation**
 - Classroom Inventory
-- Station Inventory
+- [Station Inventory](#station-inventory)
 - Attendance Issues
 - Tuesday Yoga Setup
 - PD Schedule Coordination
-- Station Imaging
+- [Station Imaging](#machine-imaging)
 
 **Jumpstart**
 - Instructor/ TA / Admin Scheduling
@@ -245,6 +245,10 @@ Here is a broad breakdown of those tasks:
 - Food ordering and delivery
 - Jump Drive Setup
 - Curriculum Folders
+
+### Attendance
+
+Attendance is taken daily and tracked in the LEARN google drive with a form [like this](https://docs.google.com/spreadsheets/d/1VOQx_bi_tPLPkTqkzCNya1TiwfCoMQg4sJGAllraY98/edit#gid=0). Students are expected to be in class everyday from 9-5. If a student misses the class check in the student is considered late. Habitual tardiness or absences put the student at risk to be disqualified for internship. The full absence policy can be found [here](./attendance-issues.md).
 
 ### Grading Assessments
 Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. Full details of the [assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. Once submitted, the instructors:
