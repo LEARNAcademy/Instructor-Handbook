@@ -233,11 +233,12 @@ Here is a broad breakdown of those tasks:
 - Classroom Inventory
 - [Station Inventory](#station-inventory)
 - Attendance Issues
-- Tuesday Yoga Setup
+- Tuesday [Yoga](#yoga) Setup
 - PD Schedule Coordination
 - [Station Imaging](#machine-imaging)
 
 **Jumpstart**
+- [Jumpstart Trello](https://trello.com/b/BYycV15b/jumpstart) for Prep and Planning
 - Instructor/ TA / Admin Scheduling
 - Monday Email to Participants
 - Communication via Slack for All Involved
@@ -258,6 +259,10 @@ Assessments are given every Friday afternoon for the first six weeks of class. T
 - Once the pull request is approved, the student will merge their code to master and their assessment is complete
 - To track this process, a google form [like this](https://docs.google.com/spreadsheets/d/1yuCX35WVoLucztOmAgs_8pDH_LeQvLlhY7RE80ljqhc/edit#gid=0) is kept in the LEARN drive
 - Assessments serve as a tool to identify students who need may need additional help or one-on-one attention
+
+### Yoga
+
+LEARN offers a yoga class (as well as mats and supplies) to the students and faculty every Tuesday at 5:30pm. On Monday, the faculty in charge of organizing yoga can reach out to the usual participants via the Slack [Yoga Channel](https://app.slack.com/client/T04B40L2C/CLBAWENES). If two or more participants intend to join, confirm with our wonderful instructor, Renda. Hillary can provide her contact information. Yoga is practiced in the classroom with the furniture pushed to the side. 
 
 ## Capstone Projects Tasks
 
@@ -337,7 +342,7 @@ The process sometimes varies but looks something like this:
 
 **Issues During Capstone Projects**
 
-Capstone projects typically present new challenges for students particularly in regards to project management and working on a bigger team. More often than not, when expectations are clearly set (project requirements/process) the projects run pretty smoothly even with the new development hurdles students face. 
+Capstone projects typically present new challenges for students particularly in regards to project management and working on a bigger team. More often than not, when expectations are clearly set (project requirements/process) the projects run pretty smoothly even with the new development hurdles students face.
 
 Still, conflict may arise but may be mitigated at more ideal times if warning signs are caught early on.
 
@@ -351,4 +356,3 @@ Though not always signs of trouble here are some of the **warning signs** that m
 - Break down of communication
     - Committing over each others' work
     - No clear understanding of what teammates are working on
-
