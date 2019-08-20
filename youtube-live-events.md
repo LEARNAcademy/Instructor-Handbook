@@ -16,14 +16,20 @@ When you see the LEARNAcademy logo as your avatar you are signed to LEARNAcademy
 
 ### Setting Up and Recording a Live Event
 
-- Click the LEARNAcademy avatar
-- Click **Youtube Studio (beta)** in the menu. When the page is done refreshing, the Youtube logo changes to Studio beta
-- Scroll down in the left navigation menu under channel until you see **Other Features** and click the tab
-- Select **Live events**
-- Click the **+ New live event** button at the top right
-- Add a title to the video using this template `year` - `cohort` - `topic`
-- Click the **Create event** button on the top right
-- Click **Select a stream** and select the room you are in (**Hopper** or **Turing**), it should save on it's own
-- If **STREAM STATUS** is **GOOD**, you are ready to stream and you can click **Preview** to test the stream
-- Once the preview is working you have the option to click **Start recording** to start capturing the lesson
-- When the lesson is finished, remember to click **Stop recording**
+1) Click the LEARNAcademy avatar
+2) Click **Youtube Studio (beta)** in the menu. When the page is done refreshing, the Youtube logo changes to Studio beta
+![Getting to Youtube Studio](./assets/live-events-1.png)
+3) Scroll down in the left navigation menu under channel until you see **Other Features** and click the tab
+4) Select **Live events**
+![Getting to Live Events](./assets/live-events-2.png)
+5) Click the **+ New live event** button at the top right
+![Create Event](./assets/live-events-3.png)
+6) Add a title to the video using this template `year` - `cohort` - `topic`
+7) Click the **Create event** button on the top right
+![Add a Title](./assets/live-events-4.png)
+8) Click **Select a stream**
+9) Select the room you are in (**Hopper** or **Turing**), it should save on it's own
+![Select Room](./assets/live-events-5.png)
+10) If **STREAM STATUS** is **GOOD**, you are ready to stream and you can click **Preview** to test the stream
+11) Once the preview is working you have the option to click **Start recording** to start capturing the lesson
+12) When the lesson is finished, remember to click **Stop recording**
