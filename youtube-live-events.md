@@ -28,8 +28,9 @@ When you see the LEARNAcademy logo as your avatar you are signed to LEARNAcademy
 7) Click the **Create event** button on the top right
 ![Add a Title](./assets/live-events-4.png)
 8) Click **Select a stream**
+![Select Stream](./assets/live-events-5.png)
 9) Select the room you are in (**Hopper** or **Turing**), it should save on it's own
-![Select Room](./assets/live-events-5.png)
+![Select Room](./assets/live-events-6.png)
 10) If **STREAM STATUS** is **GOOD**, you are ready to stream and you can click **Preview** to test the stream
 11) Once the preview is working you have the option to click **Start recording** to start capturing the lesson
 12) When the lesson is finished, remember to click **Stop recording**
