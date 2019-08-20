@@ -1,6 +1,6 @@
 # Capturing Lessons Using Youtube Live Events
 
-LEARN utilizes Youtube Live Events to record lessons. Youtube Live Events let's you set up a live stream that you can capture and share.
+LEARN utilizes Youtube Live Events to record lessons. Youtube Live Events lets you set up a live stream that you can capture and share.
 
 ## Setting Up a Stream
 
