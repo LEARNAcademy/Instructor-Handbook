@@ -16,6 +16,7 @@ This document is intended to help get you up to speed and navigating the classro
     - [ Inventory ](#inventory)
 - [ Day to Day Tasks](#day-to-day-tasks)
 - [ Capstone Projects Tasks ](#capstone-projects-tasks)
+- [ Tech Talks ](#tech-talks)
 
 ## Instruction
 
@@ -362,3 +363,21 @@ Though not always signs of trouble here are some of the **warning signs** that m
 - Break down of communication
     - Committing over each others' work
     - No clear understanding of what teammates are working on
+
+## Tech Talks
+
+Students are required to present a Tech Talk. For the most part all the Tech Talks are presented on the same day during the last week of a cohort.
+
+### Leading up to Tech Talks
+
+During PD week, students are encouraged to start thinking about their talks. The week before Tech Talks, a sign up sheet is given to a cohort where students can self select their time and their subject. Depending on the size of the cohort, the talks are split into two rooms.
+
+### Preparation
+
+Students are encouraged to have slides to go with their presentations and to practice. Still, there are things that can be done in preparation for the talks that will make them run a bit smoother.
+
+Tech Talk Room Checklist:
+
+- Projector is working (bulb not dead)
+- Sound is working (through Sonos or otherwise)
+- HDMI cable
