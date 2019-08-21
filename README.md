@@ -112,6 +112,12 @@ Here assignments are created for a cohort organization and links are generated t
 
 [Weekly individual assessments](#grading-assessments) are assigned each Friday via GitHub Classroom.
 
+#### Youtube
+
+LEARN uses Youtube to capture lessons using Live Events.
+
+Here is a link to the steps to creating a Live Event: [Creating Youtube Live Events](./youtube-live-events.md)
+
 #### Google Drive
 
 Google drive contains many of the documents related to non-curriculum related tasks. It contains documents to help you track lesson plans, inventory, first day schedules, and a host of other things.
