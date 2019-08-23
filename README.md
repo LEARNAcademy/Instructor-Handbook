@@ -388,7 +388,7 @@ Both admin and instruction staff take part in providing tech talk feedback.
 
 Providing feedback is less about grading student performance than it is about getting students comfortable with giving a tech talk and providing tips on how to improve a talk.
 
-As such we typically a modified 'Perfection Game' approach. In short a staff member touches on:
+As such we typically a modified 'Perfection Game' approach. In short, when providing feedback a staff member touches on:
 
 - What was great about the talk
 - What could be done to elevate the talk
