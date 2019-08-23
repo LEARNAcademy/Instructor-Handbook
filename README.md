@@ -381,3 +381,18 @@ Tech Talk Room Checklist:
 - Projector is working (bulb not dead)
 - Sound is working (through Sonos or otherwise)
 - HDMI cable
+
+### Feedback
+
+Both admin and instruction staff take part in providing tech talk feedback. 
+
+Providing feedback is less about grading student performance than it is about getting students comfortable with giving a tech talk and providing tips on how to improve a talk.
+
+As such we typically a modified 'Perfection Game' approach.
+
+It is typically structured like this:
+
+- What was great about the talk
+- What could be done to elevate the talk
+
+The tips and advice on elevating a talk can and does often range from having more prominent contact info on slides to emphasizing a previous career in connection to the material.
