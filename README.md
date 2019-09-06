@@ -107,8 +107,9 @@ In the past we've used a couple of formats.
 **Liked | Learned | Loathed**
 
 - Each student is given some sticky notes. 
-- For a predetermined amount of time students write one note per sticky for things that they **liked**, **learned**, and **loathed**. Students post the stickies up on the whiteboard. 
-- When time is up, the students go up to the board and arrange the stickies by topics. Then students and instructors discuss the topics listed. 
+- For a predetermined amount of time students write one note per sticky for things that they **liked**, **learned**, and **loathed**. 
+- Students post the stickies up on the whiteboard. 
+- When time is up, the students go up to the board and arrange the stickies by topic. Then students and instructors discuss the topics listed. 
 
 **3 Learned | 2 Questions | 1 AHA!**
 
