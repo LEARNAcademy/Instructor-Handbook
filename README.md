@@ -98,6 +98,27 @@ At the beginning of each day, a check in question and a plan for the day are wri
 
 Additional useful information to put on the board are the scheduled speakers and any other non-coding activities that are to happen during the week.
 
+#### Weekly Retros
+
+Midway through the course, weekly retros become part of the class schedule. This gives the students and the instructing staff a feel for what worked and what didn't during the week.
+
+In the past we've used a couple of formats.
+
+**Liked | Learned | Loathed**
+
+- Each student is given some sticky notes. 
+- For a predetermined amount of time students write one note per sticky for things that they **liked**, **learned**, and **loathed**. 
+- Students post the stickies up on the whiteboard. 
+- When time is up, the students go up to the board and arrange the stickies by topic. 
+- Students and instructors discuss the topics listed. 
+
+**3 Learned | 2 Questions | 1 AHA!**
+
+- Each student is given some sticky notes. 
+- For a predetermined amount of time students think of **3 things they learned**, **2 questions they have**, and **1 AHA! moment**. 
+- Each student writes a note per sticky for each item in a category and posts it in their corresponding columns on a whiteboard. 
+- A student then volunteers to organize the stickies. 
+- Finally, instructors read through some of the stickies and answer some of the questions from the questions column.
 
 ## Instructor Tools
 
