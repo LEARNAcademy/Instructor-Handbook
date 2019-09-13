@@ -14,7 +14,7 @@ This document is intended to help get you up to speed and navigating the classro
 - [ Operations ](#operations)
     - [ Meetings ](#meetings)
     - [ Inventory ](#inventory)
-    - [ Equipment Troubleshooting ](#equipment-troubleshooting)
+    - [ Troubleshooting Equipment ](#troubleshooting-equipment)
 - [ Day to Day Tasks](#day-to-day-tasks)
 - [ Capstone Projects Tasks ](#capstone-projects-tasks)
 - [ Tech Talks ](#tech-talks)
