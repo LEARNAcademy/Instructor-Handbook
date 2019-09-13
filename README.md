@@ -260,9 +260,34 @@ The Logitech speakers have a standard setup:
 Troubleshooting:
 
 - Check that it is receiving power
-- Check that it is plugged into **AUDIO OUT**
+- Check that it is plugged into **AUDIO OUT** on projector
 - Volume is up (depending on the video, this may need to be cranked)
 
+##### Wired Speakers (Sonos)
+
+In order to control the source to the Sonos speaker, make sure you have the **Sonos App** downloaded on your phone.
+
+The set up is a bit different:
+
+- Line out from the projector to the Sonos speaker
+- The Sonos speaker is always on. When connected to power the status light near the touch controls will glow white
+- Open up the Sonos app on your phone
+- Select **Browse** in the app
+- Select **Line In** 
+- Select **Audio Component** and the speaker should connect to it's line in
+
+- Select a specific room to play to:
+    - Enter the now playing pop up (right above the lower menu)
+    - Select the *square* to the right of the volume slider
+    - Select/Deselect the appropriate room
+
+Troubleshooting
+
+- Check that it is receiving power
+- Check that **AUDIO OUT** on projector is connected to **Line In** (aux in) on Sonos
+- Check that Sonos is playing the **Line In** source
+- Check that the appropriate room is selected in *Play to the following*
+- Volume is up
 
 ## Day to Day Tasks
 
