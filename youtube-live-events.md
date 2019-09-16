@@ -43,8 +43,6 @@ It is often very helpful for an additional instructor to be present to both star
 
 In each classroom there is at least one machine that has the OBS software installed. This software is what allows us to capture the stream and feed it to Youtube.
 
-#### Opening OBS
-
 #### The OBS Interface
 
 The OBS interface looks like this:
