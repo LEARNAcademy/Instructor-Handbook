@@ -34,3 +34,42 @@ When you see the LEARNAcademy logo as your avatar you are signed to LEARNAcademy
 10) If **STREAM STATUS** is **GOOD**, you are ready to stream and you can click **Preview** to test the stream
 11) Once the preview is working you have the option to click **Start recording** to start capturing the lesson
 12) When the lesson is finished, remember to click **Stop recording**
+
+## Monitoring the Stream
+
+It is often very helpful for an additional instructor to be present to both start and monitor the stream.
+
+### OBS: Open Broadcaster Software
+
+In each classroom there is at least one machine that has the OBS software installed. This software is what allows us to capture the stream and feed it to Youtube.
+
+#### Opening OBS
+
+#### The OBS Interface
+
+The OBS interface looks like this:
+
+1) The currently casting stream
+2) Scene menu
+3) Sources menu
+4) Mixer
+5) Scene Transition Menu
+6) Control buttons
+
+#### OBS Remote: Controlling Cast
+
+There are 2 possible views to cast during a lesson. There is the **speaker** view and the **presentation** view. While it is often the case that we can simply cast the presentation accompanied witht the speaker's voice, there are times when it is helpful to toggle between the speaker and their presentation. This is true for example when the speaker is using the whiteboard.
+
+The control interface really just a web page with buttons to switch between the available views and there is a page for each room:
+
+**TURING**: http://t2t2.github.io/obs-tablet-remote/#!auto&host=10.0.1.3
+
+**HOPPER**: http://t2t2.github.io/obs-tablet-remote/#!auto&host=10.0.1.2 
+
+To get to the control panel:
+
+- Visit the link to the appropriate room
+- Click the **Connect** button in the prepopulated *Connect* form on the page. It will take you to control screen 
+- As you click the buttons to switch your cast, the casting stream window in the OBS Desktop application will reflect which you are currently casting
+
+**Note**: At times it is easier to get to the control panel on a mobile web browser
