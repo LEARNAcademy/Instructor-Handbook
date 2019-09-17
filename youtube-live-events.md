@@ -34,3 +34,52 @@ When you see the LEARNAcademy logo as your avatar you are signed to LEARNAcademy
 10) If **STREAM STATUS** is **GOOD**, you are ready to stream and you can click **Preview** to test the stream
 11) Once the preview is working you have the option to click **Start recording** to start capturing the lesson
 12) When the lesson is finished, remember to click **Stop recording**
+
+
+## Monitoring the Stream
+
+It is often very helpful for an additional instructor to be present to both start and monitor the stream.
+
+### OBS: Open Broadcaster Software
+
+In each classroom there is at least one machine that has the OBS software installed. This software is what allows us to capture the stream and feed it to Youtube.
+
+#### The OBS Interface
+
+The OBS interface looks like this:
+
+![OBS Layout](./assets/obs-ui-layout.png)
+
+The panels important to monitoring are outlined:
+
+1) Current stream view
+2) Sources list
+3) Mixer
+
+**Current stream view**
+
+This is a live monitor for the video that is streaming. The [OBS Remote](#obs-remote:-controlling-cast) section below describes how you can switch between the **Projector** and the **Speaker** views.
+
+**Sources list**
+
+This panel lists all the sources of the stream. Generally you want to be sure that the **webcam video**, **wireless(mic)**, and **webcam(mic)** are online. 
+
+**Mixer**
+
+Use this panel to make sure that the **wireless mic** is receiving a strong signal. A strong signal is a green to lower/mid yellow band.
+
+#### OBS Remote: Controlling Cast
+
+There are 2 possible views to cast during a lesson. There is the **speaker** view and the **presentation** view. While it is often the case that we can simply cast the presentation accompanied with the speaker's voice, there are times when it is helpful to toggle between the speaker and their presentation. This is true for example when the speaker is using the whiteboard.
+
+The control interface is really just a web page with buttons to switch between the available views.
+
+There are separate links for Turing and Hopper. You can find them here: [OBS Tablet Remote Control Links](https://trello.com/c/1U3SYLy6/253-obs-tablet-remote-control-urls)
+
+To get to the control panel:
+
+- Visit the link to the appropriate room
+- Click the **Connect** button in the prepopulated *Connect* form on the page. It will take you to control screen 
+- As you click the buttons to switch your cast, the casting stream window in the OBS Desktop application will reflect which you are currently casting
+
+**Note**: At times it is easier to get to the control panel on a mobile web browser
