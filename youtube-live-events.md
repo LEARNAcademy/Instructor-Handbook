@@ -69,13 +69,11 @@ Use this panel to make sure that the **wireless mic** is receiving a strong sign
 
 #### OBS Remote: Controlling Cast
 
-There are 2 possible views to cast during a lesson. There is the **speaker** view and the **presentation** view. While it is often the case that we can simply cast the presentation accompanied witht the speaker's voice, there are times when it is helpful to toggle between the speaker and their presentation. This is true for example when the speaker is using the whiteboard.
+There are 2 possible views to cast during a lesson. There is the **speaker** view and the **presentation** view. While it is often the case that we can simply cast the presentation accompanied with the speaker's voice, there are times when it is helpful to toggle between the speaker and their presentation. This is true for example when the speaker is using the whiteboard.
 
-The control interface really just a web page with buttons to switch between the available views and there is a page for each room:
+The control interface is really just a web page with buttons to switch between the available views.
 
-**TURING**: http://t2t2.github.io/obs-tablet-remote/#!auto&host=10.0.1.3
-
-**HOPPER**: http://t2t2.github.io/obs-tablet-remote/#!auto&host=10.0.1.2 
+There are separate links for Turing and Hopper. You can find them here: [OBS Tablet Remote Control Links](https://trello.com/c/1U3SYLy6/253-obs-tablet-remote-control-urls)
 
 To get to the control panel:
 
