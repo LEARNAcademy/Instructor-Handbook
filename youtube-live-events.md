@@ -47,12 +47,25 @@ In each classroom there is at least one machine that has the OBS software instal
 
 The OBS interface looks like this:
 
-1) The currently casting stream
-2) Scene menu
-3) Sources menu
-4) Mixer
-5) Scene Transition Menu
-6) Control buttons
+![OBS Layout](./assets/obs-ui-layout.png)
+
+The panels important to monitoring are outlined:
+
+1) Current stream view
+2) Sources list
+3) Mixer
+
+**Current stream view**
+
+This is a live monitor for the video that is streaming. The [OBS Remote](#obs-remote:-controlling-cast) section below describes how you can switch between the **Projector** and the **Speaker** views.
+
+**Sources list**
+
+This panel lists all the sources of the stream. Generally you want to be sure that the **webcam video**, **wireless(mic)**, and **webcam(mic)** are online. 
+
+**Mixer**
+
+Use this panel to make sure that the **wireless mic** is receiving a strong signal. A strong signal is a green to lower/mid yellow band.
 
 #### OBS Remote: Controlling Cast
 
