@@ -135,6 +135,8 @@ Here assignments are created for a cohort organization and links are generated t
 
 [Weekly individual assessments](#grading-assessments) are assigned each Friday via GitHub Classroom.
 
+To create a Github Classroom assignment with starter code it must be a stand alone repository in the LEARN Academy Organization and then forked into the individual cohort's organization on Github - the starter code repository cannot be tied to any other repository.  The naming convention for starter code repositories is "Challenge Name - Cohort Name - Year" for example Pig-Latin-Challenge-Alpha-20.  In the README of the starter code for Github Classroom assignments include any terminal commands needed to get the project spun up and a link to the relevent Syllabus materials.  A Github Classroom assignment can be created without starter code as well.  
+
 #### Youtube
 
 LEARN uses Youtube to capture lessons using Live Events.
