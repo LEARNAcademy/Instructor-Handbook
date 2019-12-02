@@ -135,7 +135,7 @@ Here assignments are created for a cohort organization and links are generated t
 
 [Weekly individual assessments](#grading-assessments) are assigned each Friday via GitHub Classroom.
 
-To create a Github Classroom assignment with starter code it must be a stand alone repository in the LEARN Academy Organization and then forked into the individual cohort's organization on Github - the starter code repository cannot be tied to any other repository.  The naming convention for starter code repositories is "Challenge Name - Cohort Name - Year" for example Pig-Latin-Challenge-Alpha-20.  In the README of the starter code for Github Classroom assignments include any terminal commands needed to get the project spun up and a link to the relevent Syllabus materials.  A Github Classroom assignment can be created without starter code as well.  
+To create a Github Classroom assignment with starter code it must be a stand alone repository in the LEARN Academy Organization and then forked into the individual cohort's organization on Github - the starter code repository cannot be tied to any other repository.  Add the GitHub Classroom link to accept the assignment to the repo description.  In the README of the starter code for Github Classroom assignments include any terminal commands needed to get the project spun up and a link to the relevent Syllabus materials.  A Github Classroom assignment can be created without starter code as well.  
 
 #### Youtube
 
@@ -146,6 +146,10 @@ Here is a link to the steps to creating a Live Event: [Creating Youtube Live Eve
 #### Google Drive
 
 Google drive contains many of the documents related to non-curriculum related tasks. It contains documents to help you track lesson plans, inventory, first day schedules, and a host of other things.
+
+#### Live Captioning
+
+In order to provide live captions of lectures a web service is used.  [Web Captioner](https://webcaptioner.com/captioner) site will caption the speaking live during the event through the standard microphone.  The web captioner only works with Google Chrome Browswers.  To include captions in the OBS live stream click the 3 dots next to Start Captioning and select New Window.  Adjust the new window to fit in the OBS screen by dragging the edges of the new window.  It has already been added to the OBS feed as Chrome.  Information on [Terms of Service](https://webcaptioner.com/terms-of-service/) and [Privacy Policy](https://webcaptioner.com/privacy-policy/).
 
 #### HubSpot
 
