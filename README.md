@@ -149,7 +149,7 @@ Google drive contains many of the documents related to non-curriculum related ta
 
 #### Live Captioning
 
-In order to provide live captions of lectures a web service is used.  [Web Captioner](https://webcaptioner.com/captioner) site will caption the speaking live during the event through the standard microphone.  The web captioner only works with Google Chrome Browswers.  To include captions in the OBS live stream click the 3 dots next to Start Captioning and select New Window.  Adjust the new window to fit in the OBS screen by dragging the edges of the new window.  It has already been added to the OBS feed as Chrome.  Information on [Terms of Service](https://webcaptioner.com/terms-of-service/) and [Privacy Policy](https://webcaptioner.com/privacy-policy/).
+In order to provide live captions of lectures a web service is used.  [Web Captioner](https://webcaptioner.com/captioner) site will caption the speaking live during the event through the standard microphone.  The web captioner only works with Google Chrome Browsers.  To include captions in the OBS live stream click the 3 dots next to Start Captioning and select New Window.  Adjust the new window to fit in the OBS screen by dragging the edges of the new window.  It has already been added to the OBS feed as Captions.  Information on [Terms of Service](https://webcaptioner.com/terms-of-service/) and [Privacy Policy](https://webcaptioner.com/privacy-policy/).
 
 #### HubSpot
 
