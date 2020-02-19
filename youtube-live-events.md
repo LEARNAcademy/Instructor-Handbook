@@ -6,43 +6,15 @@ LEARN utilizes Youtube Live Events to record lessons. Youtube Live Events lets y
 
 A breakdown follows of the steps to creating a Live Event.
 
-### Sign In
-
-- Use your LEARNAcademy credentials on Google to sign in to Youtube
-- Once you are signed in, clicking your avatar at the top right of the Youtube screen should reveal a menu
-- Find and click the  **Switch account** tab and select **LEARN academy**
-
-When you see the LEARNAcademy logo as your avatar you are signed to LEARNAcademy's Youtube channel.
-
-### Setting Up and Recording a Live Event
-
-1) Click the LEARNAcademy avatar
-2) Click **Youtube Studio (beta)** in the menu. When the page is done refreshing, the Youtube logo changes to Studio beta
-![Getting to Youtube Studio](./assets/live-events-1.png)
-3) Scroll down in the left navigation menu under channel until you see **Other Features** and click the tab
-4) Select **Live events**
-![Getting to Live Events](./assets/live-events-2.png)
-5) Click the **+ New live event** button at the top right
-![Create Event](./assets/live-events-3.png)
-6) Add a title to the video using this template `year` - `cohort` - `topic`
-7) Click the **Create event** button on the top right
-![Add a Title](./assets/live-events-4.png)
-8) Click **Select a stream**
-![Select Stream](./assets/live-events-5.png)
-9) Select the room you are in (**Hopper** or **Turing**), it should save on it's own
-![Select Room](./assets/live-events-6.png)
-10) If **STREAM STATUS** is **GOOD**, you are ready to stream and you can click **Preview** to test the stream
-11) Once the preview is working you have the option to click **Start recording** to start capturing the lesson
-12) When the lesson is finished, remember to click **Stop recording**
-
-
-## Monitoring the Stream
-
-It is often very helpful for an additional instructor to be present to both start and monitor the stream.
-
 ### OBS: Open Broadcaster Software
 
-In each classroom there is at least one machine that has the OBS software installed. This software is what allows us to capture the stream and feed it to Youtube.
+In each classroom there is at least one machine that has the OBS software installed. This software is what allows us to capture the stream and feed it to Youtube. Start OBS by clicking on it in the dock on the streaming computer.
+
+You don't have to click on very many things in OBS in order to set up a stream
+- In the bottom right hand corner, you'll see "Start Streaming" and "Start Recording"
+- "Start Streaming" should be used when you are recording a lecture, in-class speaker, etc. Click this button **first** before moving on to the next steps in YouTube.
+- "Start Recording" should be used for _student_ presentations. All you have to do to use this option is click "Start Recording" then "Stop Recording" when they're done presenting. This will save a thumbnail on the desktop that you can send to students directly. This option is used to avoid students appearing on the LEARN YouTube account.
+
 
 #### The OBS Interface
 
@@ -58,7 +30,7 @@ The panels important to monitoring are outlined:
 
 **Current stream view**
 
-This is a live monitor for the video that is streaming. The [OBS Remote](#obs-remote:-controlling-cast) section below describes how you can switch between the **Projector** and the **Speaker** views.
+This is a live monitor for the video that is streaming. The [OBS Remote](#obs-remote:-controlling-cast) section below describes how you can switch between the **Desktop**, **Speaker**, and **Split** views.
 
 **Sources list**
 
@@ -66,20 +38,43 @@ This panel lists all the sources of the stream. Generally you want to be sure th
 
 **Mixer**
 
-Use this panel to make sure that the **wireless mic** is receiving a strong signal. A strong signal is a green to lower/mid yellow band.
+Use this panel to make sure that the **wireless mic** is receiving a strong signal. A strong signal is a green to lower/mid yellow band. You may also use the full-size mic if you'd like. You can even use both mics at the same time for multiple speakers.
 
-#### OBS Remote: Controlling Cast
+### Sign in to YouTube
 
-There are 2 possible views to cast during a lesson. There is the **speaker** view and the **presentation** view. While it is often the case that we can simply cast the presentation accompanied with the speaker's voice, there are times when it is helpful to toggle between the speaker and their presentation. This is true for example when the speaker is using the whiteboard.
+- Use your LEARNAcademy credentials on Google to sign in to Youtube
+- Once you are signed in, clicking your avatar at the top right of the Youtube screen should reveal a menu
+- Find and click the  **Switch account** tab and select **LEARN academy**
 
-The control interface is really just a web page with buttons to switch between the available views.
+When you see the LEARNAcademy logo as your avatar you are signed to LEARNAcademy's Youtube channel.
 
-There are separate links for Turing and Hopper. You can find them here: [OBS Tablet Remote Control Links](https://trello.com/c/1U3SYLy6/253-obs-tablet-remote-control-urls)
+### Setting Up and Recording a Live Event
 
-To get to the control panel:
+1) Click on the icon in the top right-hand corner that looks like a video camera with a "+" inside of it
 
-- Visit the link to the appropriate room
-- Click the **Connect** button in the prepopulated *Connect* form on the page. It will take you to control screen 
-- As you click the buttons to switch your cast, the casting stream window in the OBS Desktop application will reflect which you are currently casting
+![Getting to Youtube Studio1](./assets/record_icon.png)
 
-**Note**: At times it is easier to get to the control panel on a mobile web browser
+2) Now click "Go Live"
+
+![Getting to Youtube Studio2](./assets/go_live1.png)
+
+3) A box will show up in the middle of the screen. You will want to click on "Copy and Create" to start a new stream. This will copy the format from the previous stream
+4) From here, change the name of your current stream using the format below ( Year - Cohort - Topic) so that videos are organized properly
+
+![Set up Stream Name](./assets/change_name.png)
+
+5) Double check that you are recording in the correct room
+
+![Set up Stream Room](./assets/set_room.png)
+
+6) Wait for about 30 seconds until the video loads in YouTube Studio. Once you see the live screen, you are good to click "Go Live" in the top right-hand corner to officially start the stream
+
+![Start Streaming](./assets/go_live2.png)
+
+7) When the you're done recording, don't forget to click "Stop" in YouTube Video
+8) Now you will have access to the link to your video that you can share
+
+## Monitoring the Stream
+
+It is often very helpful for an additional instructor to be present to both start and monitor the stream.
+
