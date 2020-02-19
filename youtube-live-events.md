@@ -71,7 +71,7 @@ When you see the LEARNAcademy logo as your avatar you are signed to LEARNAcademy
 
 ![Start Streaming](./assets/go_live2.png)
 
-7) When the you're done recording, don't forget to click "Stop" in YouTube Video
+7) When the you're done recording, don't forget to click "Stop" in YouTube Studio
 8) Now you will have access to the link to your video that you can share
 
 ## Monitoring the Stream
