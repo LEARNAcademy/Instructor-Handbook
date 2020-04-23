@@ -239,6 +239,8 @@ Typically, defective computer equipment is assessed by Rob before disposal. Larg
 
 #### Machine Imaging
 
+The provision repo is [here](https://github.com/LEARNAcademy/provision).
+
 ##### Classroom Machines
 
 When there is an incoming class, we re-image all the machines in classroom that will serve as their lab. The process is documented here under  the first item 'Imaging Machines': [LEARN Classroom Setup Mac Mini](https://docs.google.com/document/d/1yZ1iNVaLKyDg6CTkNHZ0TdscdoYeQvczLaZKWibYfY0/edit#heading=h.efghimpqj7mi)
