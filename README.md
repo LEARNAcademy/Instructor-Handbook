@@ -154,9 +154,9 @@ In order to provide live captions of lectures a web service is used.  [Web Capti
 #### HubSpot
 
 HubSpot is LEARN's CRM (Customer Relationship Management) used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the One-on-One meetings that take place twice a during a cohort, typically in Week 3 and Week 8. To access HubSpot you will need to:
-- Follow [this link](https://docs.google.com/forms/d/e/1FAIpQLSfXeTc41fmtYuk8gF72a8nMN5T1gRUQYUaAQ98RKHGifZSWVA/viewform?vc=0&c=0&w=1) to a google form
+- Follow [this link](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit) to a google form
 - Enter the student's email
-- Select the appropriate Meeting (1 or 2)
+- Select the appropriate Meeting (1st, 2nd, 3rd)
 - Include the date, the name of the person who conducted the One-on-One, and any pertinent details
 - Submit! Woo!
 
