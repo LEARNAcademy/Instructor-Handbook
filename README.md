@@ -5,19 +5,45 @@ This document is intended to help get you up to speed and navigating the classro
 ## Table of Contents
 
 - [ Instruction ](#instruction)
-    - [ First Day of a Cohort ](#first-day-of-a-cohort)
-    - [ Daily Schedule ](#daily-schedule)
-    - [ The Syllabus ](#the-syllabus)
-    - [ Lesson Planning ](#lesson-planning)
-    - [ Classroom Facilitation ](#classroom-facilitation)
+  - [ First Day of a Cohort ](#first-day-of-a-cohort)
+  - [ Daily Schedule ](#daily-schedule)
+  - [ The Syllabus ](#the-syllabus)
+  - [ Lesson Planning ](#lesson-planning)
+- [ Classroom Facilitation ](#classroom-facilitation)
+  - [ Check In ](#check-in)
+  - [ Plan for the Day ](#plan-for-the-day)
+  - [ Weekly Retros ](#weekly-retros)
 - [ Instructor Tools ](#instructor-tools)
+  - [ GitHub ](#github)
+  - [ GitHub Classroom ](#github-classroom)
+  - [ YouTube ](#youtube)
+  - [ Live Captioning ](#live-captioning)
+  - [ Google Drive ](#google-drive)
+  - [ HubSpot ](#hubspot)
+  - [ One on One Form ](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit)
 - [ Operations ](#operations)
-    - [ Meetings ](#meetings)
-    - [ Inventory ](#inventory)
-    - [ Troubleshooting Equipment ](#troubleshooting-equipment)
+  - [ Staff Meetings ](#staff-meetings)
+  - [ Instructor Meetings ](#instructor-meetings)
+  - [ Slack ](#slack)
+  - [ Trello ](#trello)
+  - [ Classroom Inventory ](#classroom-inventory)
+  - [ Station Inventory ](#station-inventory)
+  - [ Troubleshooting Equipment ](#troubleshooting-equipment)
+- [Provisioning Machines](#provisioning-machines)
+  - [Provision Repo](https://github.com/LEARNAcademy/provision)
+  - [ Classroom Machines ](#classroom-machines)
+  - [ LEARN Loaner Machines ](#learn-loaner-machines)
 - [ Day to Day Tasks](#day-to-day-tasks)
+  - [ Attendance ](#attendance)
+  - [ Grading Assessments ](#grading-assessments)
+  - [ Yoga ](#yoga)
 - [ Capstone Projects Tasks ](#capstone-projects-tasks)
+  - [ Requirements ](#requirements)
+  - [ Instructor Tasks ](#instructor-tasks)
 - [ Tech Talks ](#tech-talks)
+  - [ Leading up to Tech Talks ](#leading-up-to-tech-talks)
+  - [ Preparation ](#preparation)
+  - [ Feedback ](#feedback)
 
 ## Instruction
 
@@ -39,7 +65,7 @@ Here is the first day document that is used to plan presentations and who will b
 
 
 
-###  Daily Schedule
+### Daily Schedule
 The general layout of the day looks like this:
 
 Time         | Activity
@@ -55,9 +81,12 @@ Keep in mind that this schedule is flexible and could shift depending on the con
 
 For the most part, the days consist of either a morning and afternoon lesson with challenges in between, or with one lesson in the morning and challenges the rest of the day.
 
-*Note*: The lunch hour is your lunch hour as well with exception to Tuesdays. This is when Learn Staff Meetings take place.
+*Note*: The lunch hour is your lunch hour as well with exception to Wednsedays. This is when Learn Staff Meetings take place.
 
-###  The Syllabus
+**Note for Remote:** A virtual classroom requires additional planning and managing throughout the day. A detailed breakdown of Instructor responsibilities and flow for a virtual classroom can be found [here](./virtual-classroom.md).
+
+
+### The Syllabus
 
 Here is a link to the Course Syllabus: [ LEARNAcademy Syllabus ](https://github.com/LEARNAcademy/Syllabus)
 
@@ -67,21 +96,21 @@ Notice that it is a repo within the LearnAcademy Github organization.
 
 This version of the syllabus is where all cohort syllabi derive. For each cohort a Github organization is created and the current version of the Learn syllabus is forked to that organization.
 
-Here is an example of a previous cohort syllabus: [ Bravo 2019 Syllabus ](https://github.com/learn-academy-2019-bravo/Syllabus)
+Here is an example of a previous cohort syllabus: [ Bravo 2020 Syllabus ](https://github.com/learn-academy-2020-bravo/Syllabus)
 
 When giving a lesson, you will typically work from the material on the cohort syllabus.
 
-*Note*: On occasion a change may be required on the syllabus. For the workflow on pushing changes to the syllabus and to cohort syllabi follow this [ link ](https://github.com/LEARNAcademy/Syllabus/wiki) to the syllabus wiki.
+**Note**: The syllabus is a living document. For the workflow on pushing changes to the syllabus and to cohort syllabi follow this [ link ](https://github.com/LEARNAcademy/Syllabus/wiki) to the syllabus wiki.
 
-###  Lesson Planning
+### Lesson Planning
 
-Here is an example of a lesson plan doc: [ Bravo 2019 Lesson Plans](https://docs.google.com/spreadsheets/d/1SB5sFVPqlp5l22Slp9IlYhyBxndSYsw6ZAeMvuFvTYg/edit#gid=959192181)
+Here is an example of a lesson plan doc: [ Bravo 2020 Lesson Plans](https://docs.google.com/spreadsheets/d/1iCuFcBFi3l4SkKj4hdrlp8_jJF6f7445rL5oaoOcFUI/edit#gid=290937798)
 
-Lesson planning often happens a week in advance and is usually tracked on a Google spreadsheet. A lesson plan doc is typically created in the LearnAcademy Google Drive for a cohort a few weeks before it starts.
+Lesson planning happens once a week on Fridays in the Instructor meeting. This is tracked on a Google spreadsheet. A lesson plan doc is typically created in the LearnAcademy Google Drive for a cohort a few weeks before it starts.
 
-### Classroom Facilitation
+## Classroom Facilitation
 
-#### Check In
+### Check In
 
 We start every morning with a class check in. Check in is where the class gathers in a circle with the instructors and each individual 'checks in' for the day. It's a stand in for the stand ups students will do during their capstone projects.
 
@@ -93,65 +122,74 @@ First a question is posed to the group. Some examples of past questions include:
 
 Each person answers the question and tells the group a little bit about their status coming into the day (mood/fears/situation). When they are done, they complete their check in by saying "I'm checking in". To which the group replies "Welcome". This continues until everyone is checked in.
 
-#### Plan for the Day
+**Note for Remote:** In a virtual classroom, we require everyone turn their camera on during class check in. The response from the students can be a wave rather than an audible "welcome." The instructors will post a list of the students names in random order each morning. This speeds up the process of check in, considerably.
+
+
+### Plan for the Day
 
 At the beginning of each day, a check in question and a plan for the day are written out on one of the large whiteboards mostly to set up an expectation for what the day's flow.
 
-Additional useful information to put on the board are the scheduled speakers and any other non-coding activities that are to happen during the week.
+Additional useful information to put on the board are the scheduled speakers and any other non-coding activities.
 
-#### Weekly Retros
+**Note for Remote:** A daily schedule with all lectures, talks, Zoom links, and non-coding activities will be posted in Slack each evening for the following day.
 
-Midway through the course, weekly retros become part of the class schedule. This gives the students and the instructing staff a feel for what worked and what didn't during the week.
+### Weekly Retros
+
+Weekly retros give the students and staff an opportunity to reflect on the week.
 
 In the past we've used a couple of formats.
 
-**Liked | Learned | Loathed**
+**Liked | Learned | Longed for**
 
-- Each student is given some sticky notes. 
-- For a predetermined amount of time students write one note per sticky for things that they **liked**, **learned**, and **loathed**. 
-- Students post the stickies up on the whiteboard. 
-- When time is up, the students go up to the board and arrange the stickies by topic. 
-- Students and instructors discuss the topics listed. 
+- Each student is given some sticky notes.
+- For a predetermined amount of time students write one note per sticky for things that they **liked**, **learned**, and **longed for**.
+- Students post the stickies up on the whiteboard.
+- When time is up, the students go up to the board and arrange the stickies by topic.
+- Students and instructors discuss the topics listed.
 
 **3 Learned | 2 Questions | 1 AHA!**
 
-- Each student is given some sticky notes. 
-- For a predetermined amount of time students think of **3 things they learned**, **2 questions they have**, and **1 AHA! moment**. 
-- Each student writes a note per sticky for each item in a category and posts it in their corresponding columns on a whiteboard. 
-- A student then volunteers to organize the stickies. 
+- Each student is given some sticky notes.
+- For a predetermined amount of time students think of **3 things they learned**, **2 questions they have**, and **1 AHA! moment**.
+- Each student writes a note per sticky for each item in a category and posts it in their corresponding columns on a whiteboard.
+- A student then volunteers to organize the stickies.
 - Finally, instructors read through some of the stickies and answer some of the questions from the questions column.
+
+**Note for Remote:** A Google survey can be used as a substitute for the white board and sticky notes.
 
 ## Instructor Tools
 
-#### Github
+### GitHub
 
-Just about all the course materials live on Github. There are repos that exist for the syllabus, class assessments, and projects. Each organization will have their own copies of these materials. Most of the larger student projects and all assessments are administered through Github Classroom.
+Just about all the course materials live on GitHub. There are repos that exist for the syllabus, class assessments, and projects. Each organization will have their own copies of these materials. Most of the larger student projects and all assessments are administered through GitHub Classroom.
 
-#### Github Classroom
+### GitHub Classroom
 
-Github Classroom essentially allows us to track student work throughout the course and its use increases student interaction with git and Github.
+GitHub Classroom essentially allows us to track student work throughout the course and its use increases student interaction with git and GitHub.
 
 Here assignments are created for a cohort organization and links are generated that, when clicked by student, triggers the generation of a repo for that project within the cohort organization.
 
 [Weekly individual assessments](#grading-assessments) are assigned each Friday via GitHub Classroom.
 
-To create a Github Classroom assignment with starter code it must be a stand alone repository in the LEARN Academy Organization and then forked into the individual cohort's organization on Github - the starter code repository cannot be tied to any other repository.  Add the GitHub Classroom link to accept the assignment to the repo description.  In the README of the starter code for Github Classroom assignments include any terminal commands needed to get the project spun up and a link to the relevent Syllabus materials.  A Github Classroom assignment can be created without starter code as well.  
+To create a GitHub Classroom assignment with starter code it must be a stand alone repository in the LEARN Academy Organization and then forked into the individual cohort's organization on GitHub - the starter code repository cannot be tied to any other repository.  Add the GitHub Classroom link to accept the assignment to the repo description.  In the README of the starter code for GitHub Classroom assignments include any terminal commands needed to get the project spun up and a link to the relevant Syllabus materials.  A GitHub Classroom assignment can be created without starter code as well.  
 
-#### Youtube
+### YouTube
 
-LEARN uses Youtube to capture lessons using Live Events.
+LEARN uses YouTube to capture lessons using Live Events.
 
 Here is a link to the steps to creating a Live Event: [Creating Youtube Live Events](./youtube-live-events.md)
 
-#### Google Drive
+**Note for Remote:** Here is a link to the steps to uploading lectures from Zoom: [Adding Lectures to Youtube](./recording-lecture.md)
 
-Google drive contains many of the documents related to non-curriculum related tasks. It contains documents to help you track lesson plans, inventory, first day schedules, and a host of other things.
-
-#### Live Captioning
+### Live Captioning
 
 In order to provide live captions of lectures a web service is used.  [Web Captioner](https://webcaptioner.com/captioner) site will caption the speaking live during the event through the standard microphone.  The web captioner only works with Google Chrome Browsers.  To include captions in the OBS live stream click the 3 dots next to Start Captioning and select New Window.  Adjust the new window to fit in the OBS screen by dragging the edges of the new window.  It has already been added to the OBS feed as Captions.  Information on [Terms of Service](https://webcaptioner.com/terms-of-service/) and [Privacy Policy](https://webcaptioner.com/privacy-policy/).
 
-#### HubSpot
+### Google Drive
+
+Google drive contains many of the documents related to non-curriculum related tasks. It contains documents to help you track lesson plans, inventory, first day schedules, and a host of other things.
+
+### HubSpot
 
 HubSpot is LEARN's CRM (Customer Relationship Management) used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the One-on-One meetings that take place twice a during a cohort, typically in Week 3 and Week 8. To access HubSpot you will need to:
 - Follow [this link](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit) to a google form
@@ -162,45 +200,42 @@ HubSpot is LEARN's CRM (Customer Relationship Management) used to track student 
 
 ## Operations
 
-### Meetings
+### Staff Meetings
 
-There are two meetings that instructors are regularly a part of. What follows is a breakdown of those meetings.
-
-#### Staff Meetings
-
-All Learn staff attend these weekly meetings which are typically held on Tuesdays during the lunch hour. It is on occasion moved to another day if for example a bulk of staff cannot attend.
+All Learn staff attend these weekly meetings which are typically held on Wednesday during the lunch hour. It is on occasion moved to another day if for example a bulk of staff cannot attend.
 
 But the meeting is essentially a check in with all the departments. It is organized such that each department (Marketing, Career Services, Instruction etc.) provides an update and answers any questions about what's happening in their realm of the organization.
 
 For instructors, this is the time to give an update on the classroom, request any resources, or bring up any issues that have come about in the classroom. Since it is often challenging to keep track of all classroom items throughout the week and in between meetings, it is valuable to utilize the [ Classroom Admin Trello board ](https://trello.com/b/dQBMlYpI/classroom-admin) and keep it up to date for staff meetings.
 
-#### Instructor Meetings
+### Instructor Meetings
 
 These meetings are also typically held on a weekly basis. This is when instructors usually set up the teaching schedule (document who is going to teach which lessons), review and determine any necessary curriculum changes, delegate tasks related to curriculum changes, and discuss the the progress being made by the class. Discussions can sometimes lead to adjustments being made to the curriculum or the strategies used for teaching in the classroom.
 
 It's worth noting that many of the above items are often done ad hoc throughout the course.
 
-### Communication Tools
+### Slack
 
-#### Slack
+Slack is the main channel of communication within LEARN. You will use it to coordinate both with staff and students.
 
-Slack is the main channel of communication within Learn. You will use it to coordinate both with staff and students.
+LEARN Staff has a paid Slack account that is separate from the community account.
 
-The dedicated instructor channel is here: [ Teachers Channel ](https://sdlearn.slack.com/messages/CFRADSRBN/)
+The dedicated instructor channel is here: [ Teachers Channel ](https://app.slack.com/client/TV83K2TV0/C010CSRCT40)
 
-Other useful channels include:
-- [ Staff Channel ](https://sdlearn.slack.com/messages/G9Q5GU5UJ/)
-- [ Everybody Channel ](https://sdlearn.slack.com/messages/C04B40L4U/)
-- [ Events Channel](https://sdlearn.slack.com/messages/C15TQTQMB/)
+The general channel is for all staff communication:
+- [ General Channel ](https://app.slack.com/client/TV83K2TV0/CV83K3AH0)
 
-If you are interested, ask to be invited to some of these channels:
-- [ Learn Site Development Channel ](https://sdlearn.slack.com/messages/G0YG9UN01/)
-- [ Marketing Channel ](https://sdlearn.slack.com/messages/G0LKQ1HMJ/)
+There is a channel that connects LEARN with Notch8's Slack account. This can be used for direct messages to anyone on the Notch8 team as well as requesting assistance from the Notch8 developers.
+- [ LEARN-Notch8 Channel ](https://app.slack.com/client/TV83K2TV0/C010VGJFPCJ)
+
+
+The LEARN community account will hold all the cohort channels as well as the *everybody* channel. The *everybody* channel connects all alumni, current students, staff, and community partners.
+- [ Everybody Channel ](https://app.slack.com/client/T04B40L2C/C04B40L4U)
 
 You will eventually join other channels as well including various cohort channels and the channels created by students entering capstone projects.
 
 
-#### Trello
+### Trello
 
 Trello is used throughout Learn to track our tasks and objectives.
 
@@ -215,17 +250,16 @@ Be sure to ask to be added to the following boards if interested:
 - [ Marketing ](https://trello.com/b/q2s0uEzR/marketing)
 - [ Operations](https://trello.com/b/saxLJBxV/operations)
 
-### Inventory
 
-#### Classroom Inventory
+### Classroom Inventory
 
-Classroom inventory is checked on a weekly basis, ideally before staff meetings when any needs can be brought to the attention of admin staff.
+Classroom inventory is checked on a weekly basis, ideally before staff meetings when any needs can be brought to the attention of admin staff. The administrative assistance helps facilitate tracking and ordering inventory.
 
 Classroom inventory (dry erase markers, printer ink, etc) is tracked here: [Ordering Inventory](https://docs.google.com/spreadsheets/d/1YCa8ulGBugSBD9vNvBCwnvaFcrZMYBq-nZKkrC4txzI/edit#gid=555668496)
 
 If it turns out there is any need for resources, a comment written with @chelseakaufman can be added to the [ Inventory ](https://trello.com/c/EKJAXwAa/6-inventory-mondays) card in Trello.
 
-#### Station Inventory
+### Station Inventory
 
 Station inventory is checked on a daily basis just to ensure that we are aware if any of our machines or peripherals move.
 
@@ -237,21 +271,7 @@ Any defective equipment can be written in a comment on the [ Repair ](https://tr
 
 Typically, defective computer equipment is assessed by Rob before disposal. Larger equipment broken chairs/desks will be assessed by admin staff and usually handled by Union.
 
-#### Machine Imaging
-
-The provision repo is [here](https://github.com/LEARNAcademy/provision).
-
-##### Classroom Machines
-
-When there is an incoming class, we re-image all the machines in classroom that will serve as their lab. The process is documented here under  the first item 'Imaging Machines': [LEARN Classroom Setup Mac Mini](https://docs.google.com/document/d/1yZ1iNVaLKyDg6CTkNHZ0TdscdoYeQvczLaZKWibYfY0/edit#heading=h.efghimpqj7mi)
-
-This is generally handled by the more senior Learn instructors.
-
-##### LEARN Loaner Machines
-
-LEARN has Mac laptops available for students to borrow during the month of their internship if needed. After each use the machine needs to be re-imaged. The process is documented [here](https://docs.google.com/document/d/1gNE-rdnkEMpRpYscRg4jb5H13SpevpazLd5_q1cMKtA/edit).
-
-#### Troubleshooting Equipment
+### Troubleshooting Equipment
 
 **Projector Sound**
 
@@ -281,7 +301,7 @@ The set up is a bit different:
 - The Sonos speaker is always on. When connected to power the status light near the touch controls will glow white
 - Open up the Sonos app on your phone
 - Select **Browse** in the app
-- Select **Line In** 
+- Select **Line In**
 - Select **Audio Component** and the speaker should connect to it's line in
 
 - Select a specific room to play to:
@@ -296,6 +316,23 @@ Troubleshooting
 - Check that Sonos is playing the **Line In** source
 - Check that the appropriate room is selected in *Play to the following*
 - Volume is up
+
+
+## Provisioning Machines
+
+The provision repo is [here](https://github.com/LEARNAcademy/provision).
+
+### Classroom Machines
+
+When there is an incoming class, we re-image all the machines in classroom that will serve as their lab. The process is documented here under  the first item 'Imaging Machines': [LEARN Classroom Setup Mac Mini](https://docs.google.com/document/d/1yZ1iNVaLKyDg6CTkNHZ0TdscdoYeQvczLaZKWibYfY0/edit#heading=h.efghimpqj7mi)
+
+This is generally handled by the more senior LEARN instructors.
+
+### LEARN Loaner Machines
+
+LEARN has Mac laptops available for students to borrow during the month of their internship if needed. After each use the machine needs to be re-imaged. The process is documented [here](https://docs.google.com/document/d/1gNE-rdnkEMpRpYscRg4jb5H13SpevpazLd5_q1cMKtA/edit).
+
+
 
 ## Day to Day Tasks
 
@@ -332,20 +369,21 @@ Here is a broad breakdown of those tasks:
 
 ### Attendance
 
-Attendance is taken daily and tracked in the LEARN google drive with a form [like this](https://docs.google.com/spreadsheets/d/1VOQx_bi_tPLPkTqkzCNya1TiwfCoMQg4sJGAllraY98/edit#gid=0). Students are expected to be in class everyday from 9-5. If a student misses the class check in the student is considered late. Habitual tardiness or absences put the student at risk to be disqualified for internship. The full absence policy can be found [here](./attendance-issues.md).
+Attendance is taken daily and tracked in the LEARN Google drive with a form [like this](https://docs.google.com/spreadsheets/d/1VOQx_bi_tPLPkTqkzCNya1TiwfCoMQg4sJGAllraY98/edit#gid=0). Students are expected to be in class everyday from 9-5. If a student misses the class check in the student is considered late. Habitual tardiness or absences put the student at risk to be disqualified for internship. The full absence policy can be found [here](./attendance-issues.md).
 
 ### Grading Assessments
 Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. Full details of the [assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. Once submitted, the instructors:
 -  Review the code and short answers and give feedback with comments in GitHub
 - If the assessment is complete and up to par, the instructor can approve the request
-- If the code needs improvement, leave specific comments and `request changes` in GitHub
 - Once the pull request is approved, the student will merge their code to master and their assessment is complete
-- To track this process, a google form [like this](https://docs.google.com/spreadsheets/d/1yuCX35WVoLucztOmAgs_8pDH_LeQvLlhY7RE80ljqhc/edit#gid=0) is kept in the LEARN drive
+- To track this process, a google form [like this](https://docs.google.com/spreadsheets/d/15a68xRUube8kWDl3YE_0ziXHfB2Rzbo3YDRTRWLx3n0/edit#gid=0) is kept in the LEARN Google drive
 - Assessments serve as a tool to identify students who need may need additional help or one-on-one attention
 
 ### Yoga
 
-LEARN offers a yoga class (as well as mats and supplies) to the students and faculty every Tuesday at 5:30pm. On Monday, the faculty in charge of organizing yoga can reach out to the usual participants via the Slack [Yoga Channel](https://app.slack.com/client/T04B40L2C/CLBAWENES). If two or more participants intend to join, confirm with our wonderful instructor, Renda. Hillary can provide her contact information. Yoga is practiced in the classroom with the furniture pushed to the side. 
+LEARN offers a yoga class (as well as mats and supplies) to the students and faculty every Tuesday at 5:30pm. On Monday, the faculty in charge of organizing yoga can reach out to the usual participants via the Slack [Yoga Channel](https://app.slack.com/client/T04B40L2C/CLBAWENES). If two or more participants intend to join, confirm with our wonderful instructor, Renda. Hillary can provide her contact information. Yoga is practiced in the classroom with the furniture pushed to the side.
+
+**Note for Remote:** Yoga will take place via Zoom. The link is provided by the yoga instructor and sent to the Yoga Slack channel.
 
 ## Capstone Projects Tasks
 
@@ -390,10 +428,9 @@ The order sometimes varies, but these are the checkpoints:
     - Create repo
     - All group members added to the project repo
 
-***After* the First Day** of capstone projects there are a few checkpoints building up to the **Final Client Check In**:
+**After the First Day** of capstone projects there are a few checkpoints building up to the **Final Client Check In**:
 
-- **Day two**: First Deploy
-- **End of week one**: First Client Check In/Second Deploy
+- **End of week one**: First Client Check In/ Deploy
 - **Mid week 2**: Mini Client Check in
 - **End of week 2**: Final Client Check In
 
@@ -458,15 +495,15 @@ Tech Talk Room Checklist:
 - Sound is working (through Sonos or otherwise)
 - HDMI cable
 
+**Note for Remote:**
+- Everything will take longer than you expect. It is worth scheduling extra time.
+- Remind students to practice sharing their presentations on Zoom ahead of time. Speaker notes are often harder to access on a screen share.
+
+
 ### Feedback
 
-Both admin and instruction staff take part in providing tech talk feedback. 
+Both admin and instruction staff take part in providing tech talk feedback.
 
 Providing feedback is less about grading student performance than it is about getting students comfortable with giving a tech talk and providing tips on how to improve a talk.
 
-As such we typically a modified 'Perfection Game' approach. In short, when providing feedback a staff member touches on:
-
-- What was great about the talk
-- What could be done to elevate the talk
-
-The tips and advice on elevating a talk can and does often range from having more prominent contact info on slides to emphasizing a previous career in connection to the material.
+Tech talk feedback is aggregated and delivered to the student during a one on one with an instructor. The one on one can be documented [here](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit).

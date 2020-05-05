@@ -1,4 +1,3 @@
-
 # Recording Lectures/Talks
 
 
@@ -86,16 +85,16 @@
 
 
 
-1. Click the video icon in the top right corner 
+1. Click the video icon in the top right corner
 
 
-    
+
 
 
 ![alt_text](https://i.ibb.co/BsbMTzq/image1.png "Upload video to YouTube")
 
 
-2. Select your video 
+2. Select your video
 
 
 
@@ -127,7 +126,7 @@
 *   If better, proceed to the following steps
 *   While the video is being uploaded, you can close the upload modal, find the video being uploaded in YouTube studio, click on the details icon to go back into the edit video page
 *   You will see the YouTube video link on the right under the video
-*   Or, if your video has already been uploaded, find the link at the bottom of the modal 
+*   Or, if your video has already been uploaded, find the link at the bottom of the modal
 
 
 recordi
