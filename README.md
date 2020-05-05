@@ -83,7 +83,7 @@ For the most part, the days consist of either a morning and afternoon lesson wit
 
 *Note*: The lunch hour is your lunch hour as well with exception to Wednsedays. This is when Learn Staff Meetings take place.
 
-**Note for Remote:** A virtual classroom requires additional planning and managing throughout the day. A detailed breakdown of Instructor responsibilities and flow for a virtual classroom can be found [here](./virtual-classroom.md).
+__Note for Remote:__ A virtual classroom requires additional planning and managing throughout the day. A detailed breakdown of Instructor responsibilities and flow for a virtual classroom can be found [here](./virtual-classroom.md).
 
 
 ### The Syllabus
@@ -92,7 +92,7 @@ Here is a link to the Course Syllabus: [ LEARNAcademy Syllabus ](https://github.
 
 This is the home of the curriculum and includes materials for just about all the lessons and challenges the course covers.
 
-Notice that it is a repo within the LearnAcademy Github organization.
+Notice that it is a repo within the LearnAcademy GitHub organization.
 
 This version of the syllabus is where all cohort syllabi derive. For each cohort a Github organization is created and the current version of the Learn syllabus is forked to that organization.
 
@@ -177,9 +177,9 @@ To create a GitHub Classroom assignment with starter code it must be a stand alo
 
 LEARN uses YouTube to capture lessons using Live Events.
 
-Here is a link to the steps to creating a Live Event: [Creating Youtube Live Events](./youtube-live-events.md)
+Here is a link to the steps to creating a Live Event: [Creating YouTube Live Events](./youtube-live-events.md)
 
-**Note for Remote:** Here is a link to the steps to uploading lectures from Zoom: [Adding Lectures to Youtube](./recording-lecture.md)
+**Note for Remote:** Here is a link to the steps to uploading lectures from Zoom: [Adding Lectures to YouTube](./recording-lecture.md)
 
 ### Live Captioning
 
