@@ -31,7 +31,7 @@
 
 
 *   Anyone with access can then grab the video and post it to YouTube
-*   At the end of each day, one of the instructors should go into the cloud, download the MP4 file, and add it to the Learn YouTube account
+*   At the end of each day, the instructor leading the lecture should go into the cloud, download the MP4 file, and add it to the Learn YouTube account
 *   Once the video has been added to YouTube, they should delete the video from the Zoom cloud recordings in order to leave enough space in the Zoom cloud for future recordings
 
 
