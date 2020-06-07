@@ -81,7 +81,7 @@ Keep in mind that this schedule is flexible and could shift depending on the con
 
 For the most part, the days consist of either a morning and afternoon lesson with challenges in between, or with one lesson in the morning and challenges the rest of the day.
 
-*Note*: The lunch hour is your lunch hour as well with exception to Wednsedays. This is when Learn Staff Meetings take place.
+*Note*: The lunch hour is your lunch hour as well with exception to Wednesdays. This is when Learn Staff Meetings take place.
 
 __Note for Remote:__ A virtual classroom requires additional planning and managing throughout the day. A detailed breakdown of Instructor responsibilities and flow for a virtual classroom can be found [here](./virtual-classroom.md).
 
