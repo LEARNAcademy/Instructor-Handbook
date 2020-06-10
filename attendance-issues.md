@@ -1,5 +1,5 @@
 # LEARN Attendance Policy
-##### As of August 2019
+##### As of March 2020
 
 ### Policy Documents
 

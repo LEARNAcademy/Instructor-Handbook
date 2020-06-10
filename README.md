@@ -13,6 +13,7 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Check In ](#check-in)
   - [ Plan for the Day ](#plan-for-the-day)
   - [ Weekly Retros ](#weekly-retros)
+  - [ Virtual Classroom Notes ](./virtual-classroom.md)
 - [ Instructor Tools ](#instructor-tools)
   - [ GitHub ](#github)
   - [ GitHub Classroom ](#github-classroom)
@@ -206,7 +207,10 @@ All Learn staff attend these weekly meetings which are typically held on Wednesd
 
 But the meeting is essentially a check in with all the departments. It is organized such that each department (Marketing, Career Services, Instruction etc.) provides an update and answers any questions about what's happening in their realm of the organization.
 
-For instructors, this is the time to give an update on the classroom, request any resources, or bring up any issues that have come about in the classroom. Since it is often challenging to keep track of all classroom items throughout the week and in between meetings, it is valuable to utilize the [ Classroom Admin Trello board ](https://trello.com/b/dQBMlYpI/classroom-admin) and keep it up to date for staff meetings.
+Instructors are responsible for reporting attendance, assessment status, and classroom progress. These updates can be done in Slack prior to the meeting.
+
+During the meeting, instructors give an update on the classroom, request any resources, or bring up any issues that have come about in the classroom. Since it is often challenging to keep track of all classroom items throughout the week and in between meetings, it is valuable to utilize the [ Classroom Admin Trello board ](https://trello.com/b/dQBMlYpI/classroom-admin) and keep it up to date for staff meetings.
+
 
 ### Instructor Meetings
 
