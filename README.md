@@ -9,6 +9,7 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Daily Schedule ](#daily-schedule)
   - [ The Syllabus ](#the-syllabus)
   - [ Lesson Planning ](#lesson-planning)
+- [ Instructor Responsibilities ](./swimlanes.md)
 - [ Classroom Facilitation ](#classroom-facilitation)
   - [ Check In ](#check-in)
   - [ Plan for the Day ](#plan-for-the-day)
