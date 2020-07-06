@@ -18,6 +18,7 @@ This document is intended to help get you up to speed and navigating the classro
 - [ Instructor Tools ](#instructor-tools)
   - [ GitHub ](#github)
   - [ GitHub Classroom ](#github-classroom)
+  - [ GitHub Projects ](#github-projects)
   - [ YouTube ](#youtube)
   - [ Live Captioning ](#live-captioning)
   - [ Google Drive ](#google-drive)
@@ -160,6 +161,12 @@ In the past we've used a couple of formats.
 
 **Note for Remote:** A Google survey can be used as a substitute for the white board and sticky notes.
 
+**Wins and Losses**
+
+- Win: Something that went well this week or felt successful this week
+- Loss: Something that is still confusing or was difficult this week
+- Each person has the opportunity to reflect and share with the team what was a win and a loss for the week
+
 ## Instructor Tools
 
 ### GitHub
@@ -172,9 +179,13 @@ GitHub Classroom essentially allows us to track student work throughout the cour
 
 Here assignments are created for a cohort organization and links are generated that, when clicked by student, triggers the generation of a repo for that project within the cohort organization.
 
-[Weekly individual assessments](#grading-assessments) are assigned each Friday via GitHub Classroom.
+[Weekly individual assessments](#reviewing-assessments) are assigned each Friday via GitHub Classroom.
 
-To create a GitHub Classroom assignment with starter code it must be a stand alone repository in the LEARN Academy Organization and then forked into the individual cohort's organization on GitHub - the starter code repository cannot be tied to any other repository.  Add the GitHub Classroom link to accept the assignment to the repo description.  In the README of the starter code for GitHub Classroom assignments include any terminal commands needed to get the project spun up and a link to the relevant Syllabus materials.  A GitHub Classroom assignment can be created without starter code as well.  
+To create a GitHub Classroom assignment with starter code it must be a stand alone repository in the LEARN Academy Organization and then forked into the individual cohort's organization on GitHub - the starter code repository cannot be tied to any other repository.  Add the GitHub Classroom link to accept the assignment to the repo description.  In the README of the starter code for GitHub Classroom assignments include any terminal commands needed to get the project spun up and a link to the relevant Syllabus materials.  A GitHub Classroom assignment can be created without starter code as well.
+
+### GitHub Projects
+
+GitHub Projects can be utilized as a project management board for running questions. Students can add questions to the board for anyone to answer. Students can also edit cards or add "votes" to a question. These questions can also be used to determine the concepts to cover for a review session.
 
 ### YouTube
 
