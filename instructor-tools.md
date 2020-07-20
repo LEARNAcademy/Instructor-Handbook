@@ -1,4 +1,5 @@
 ## Instructor Tools
+[Back to Table of Contents](./README.md#instructor-handbook)
 
 ### GitHub
 
