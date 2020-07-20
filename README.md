@@ -27,12 +27,12 @@ This document is intended to help get you up to speed and navigating the classro
   - [ One on One Form ](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit)
 - [ Operations ](./operations.md)
   - [ Staff Meetings ](./operations.md#staff-meetings)
-  - [ Instructor Meetings ](./operations.md##instructor-meetings)
-  - [ Slack ](./operations.md##slack)
-  - [ Trello ](./operations.md##trello)
-  - [ Classroom Inventory ](./operations.md##classroom-inventory)
-  - [ Station Inventory ](./operations.md##station-inventory)
-  - [ Troubleshooting Equipment ](./operations.md##troubleshooting-equipment)
+  - [ Instructor Meetings ](./operations.md#instructor-meetings)
+  - [ Slack ](./operations.md#slack)
+  - [ Trello ](./operations.md#trello)
+  - [ Classroom Inventory ](./operations.md#classroom-inventory)
+  - [ Station Inventory ](./operations.md#station-inventory)
+  - [ Troubleshooting Equipment ](./operations.md#troubleshooting-equipment)
 - [Provisioning Machines](#provisioning-machines)
   - [Provision Repo](https://github.com/LEARNAcademy/provision)
   - [ Classroom Machines ](#classroom-machines)
@@ -388,3 +388,5 @@ Both admin and instruction staff take part in providing tech talk feedback.
 Providing feedback is less about grading student performance than it is about getting students comfortable with giving a tech talk and providing tips on how to improve a talk.
 
 Tech talk feedback is aggregated and delivered to the student during a [one on one](#one-on-one) with an instructor.
+
+[ Back to Table of Contents ](./README.md#instructor-handbook)

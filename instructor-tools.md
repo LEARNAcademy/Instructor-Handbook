@@ -1,5 +1,5 @@
 ## Instructor Tools
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)
 
 ### GitHub
 
@@ -41,4 +41,4 @@ HubSpot is LEARN's CRM (Customer Relationship Management) used to track student 
 
 To access HubSpot you will need to be granted access by the LEARN admin staff.
 
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)

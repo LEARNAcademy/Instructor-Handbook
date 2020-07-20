@@ -1,5 +1,5 @@
 # Virtual Classroom Notes and Protocols
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)
 
 The virtual classroom should mimic the in-person classroom as much as possible.
 
@@ -66,4 +66,4 @@ There is a [ resource ](https://docs.google.com/document/d/1ntHroUNYuVL7ENkq3jUB
 #### Checkout
 - Repost check in order with a checkout question in Zoom chat
 
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)

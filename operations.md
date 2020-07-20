@@ -1,5 +1,5 @@
 ## Operations
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)
 
 ### Staff Meetings
 
@@ -121,4 +121,4 @@ Troubleshooting
 - Check that the appropriate room is selected in *Play to the following*
 - Volume is up
 
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)

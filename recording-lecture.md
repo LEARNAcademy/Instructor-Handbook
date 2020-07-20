@@ -1,5 +1,5 @@
 # Recordings Zoom Sessions
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)
 
 ### When To Record
 - Regular lectures
@@ -61,4 +61,4 @@
 - Merge into master
 - Check video has been successfully added and that it works
 
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)

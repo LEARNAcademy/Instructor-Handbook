@@ -1,5 +1,5 @@
 # Guide to Classroom Admin (Trello Board)
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)
 
 The Classroom Admin board helps the admin and the instructor staff track just about all efforts and tasks related to the running of classroom activities.
 
@@ -37,4 +37,4 @@ These sections you are probably familiar with if you have ever used Trello yours
 **Done** contains
 
 
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)

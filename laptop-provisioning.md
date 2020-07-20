@@ -1,5 +1,5 @@
 # Provisioning Machines New Macbooks for Remote Classes
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)
 
 **Initial Setup**
 - Don't add any external connections (e.g. email/fingerprint id, disable Siri)
@@ -77,4 +77,4 @@ $ psql countries < ~/Desktop/countries.sql
 - Clear the terminal
 - Delete browser history
 
-[ Back to Main Handbook ](./README.md)
+[ Back to Main Handbook ](./README.md#instructor-handbook)
