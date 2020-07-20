@@ -1,4 +1,5 @@
 # Instruction Team Responsibilities
+[ Back to Main Handbook ](./README.md)
 
 Within the instruction team there are general departments that need to be managed that directly affect the classroom. They are broken into the following general departments or "swim lanes." Each instructor can "own" one or more of these swim lanes. The owner of the swim lane is not necessarily responsible for the full execution of every action. The owner should ensure documentation of the processes, delegation of responsibilities, and reporting to other instructors and staff members as appropriate.
 
@@ -37,3 +38,5 @@ Supplemental Programs includes overseeing any additional in class, out or class,
 - Kahoots
 - Icebox projects
 - Yoga
+
+[ Back to Main Handbook ](./README.md)

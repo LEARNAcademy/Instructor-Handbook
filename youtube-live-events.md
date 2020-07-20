@@ -1,4 +1,5 @@
 # Capturing Lessons Using Youtube Live Events
+[ Back to Main Handbook ](./README.md)
 
 LEARN utilizes Youtube Live Events to record lessons. Youtube Live Events lets you set up a live stream that you can capture and share.
 
@@ -34,7 +35,7 @@ This is a live monitor for the video that is streaming. The [OBS Remote](#obs-re
 
 **Sources list**
 
-This panel lists all the sources of the stream. Generally you want to be sure that the **webcam video**, **wireless(mic)**, and **webcam(mic)** are online. 
+This panel lists all the sources of the stream. Generally you want to be sure that the **webcam video**, **wireless(mic)**, and **webcam(mic)** are online.
 
 **Mixer**
 
@@ -78,3 +79,4 @@ When you see the LEARNAcademy logo as your avatar you are signed to LEARNAcademy
 
 It is often very helpful for an additional instructor to be present to both start and monitor the stream.
 
+[ Back to Main Handbook ](./README.md)

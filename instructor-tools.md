@@ -1,5 +1,5 @@
 ## Instructor Tools
-[Back to Table of Contents](./README.md#instructor-handbook)
+[ Back to Main Handbook ](./README.md)
 
 ### GitHub
 
@@ -40,3 +40,5 @@ Google drive contains many of the documents related to non-curriculum related ta
 HubSpot is LEARN's CRM (Customer Relationship Management) used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the one on one meetings that take place three times a during a cohort. Typically, the one on ones occur during Week 3, Week 9, and Week 12 of the cohort.
 
 To access HubSpot you will need to be granted access by the LEARN admin staff.
+
+[ Back to Main Handbook ](./README.md)
