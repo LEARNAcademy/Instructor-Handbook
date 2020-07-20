@@ -1,6 +1,6 @@
 # Instructor Handbook
 
-This document is intended to help get you up to speed and navigating the classroom with confidence. It is more guide than it is directive. As such, use it as a foundation to work from and add your personal flare to.
+This document is intended to help get you up to speed and navigating the classroom with confidence. It is more guide than it is directive. As such, use it as a foundation from which you can add your personal flare.
 
 ## Table of Contents
 
@@ -14,6 +14,7 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Check In ](#check-in)
   - [ Plan for the Day ](#plan-for-the-day)
   - [ Weekly Retros ](#weekly-retros)
+  - [ One on Ones ](#one-on-ones)
   - [ Virtual Classroom Notes ](./virtual-classroom.md)
 - [ Instructor Tools ](#instructor-tools)
   - [ GitHub ](#github)
@@ -24,8 +25,8 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Google Drive ](#google-drive)
   - [ HubSpot ](#hubspot)
   - [ One on One Form ](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit)
-- [ Operations ](#operations)
-  - [ Staff Meetings ](#staff-meetings)
+- [ Operations ](./operations.md)
+  - [ Staff Meetings ](./operations.md#staff-meetings)
   - [ Instructor Meetings ](#instructor-meetings)
   - [ Slack ](#slack)
   - [ Trello ](#trello)
@@ -75,11 +76,12 @@ The general layout of the day looks like this:
 Time         | Activity
 ------------ | --------
 8:45 - 9:00  | Classroom Opens
-9:00 - 9:15  | Class Check in
+9:00 - 9:15  | Class Check In
 9:15 - 12:00 | Lecture/Challenges
 12:00 - 1:00 | Lunch
 1:00 - 4:00  | Lecture/Challenges
-4:00 - 5:00  | Discussion/Wrap Up/Demos
+4:00 - 4:45  | Wrap Up/Demos
+4:45 - 5:00  | Class Check Out
 
 Keep in mind that this schedule is flexible and could shift depending on the content of the day and the needs of the class.
 
@@ -87,7 +89,7 @@ For the most part, the days consist of either a morning and afternoon lesson wit
 
 *Note*: The lunch hour is your lunch hour as well with exception to Wednesdays. This is when Learn Staff Meetings take place.
 
-__Note for Remote:__ A virtual classroom requires additional planning and managing throughout the day. A detailed breakdown of Instructor responsibilities and flow for a virtual classroom can be found [here](./virtual-classroom.md).
+**Note for Remote:** A virtual classroom requires additional planning and managing throughout the day. A detailed breakdown of Instructor responsibilities and flow for a virtual classroom can be found [here](./virtual-classroom.md).
 
 
 ### The Syllabus
@@ -110,7 +112,7 @@ When giving a lesson, you will typically work from the material on the cohort sy
 
 Here is an example of a lesson plan doc: [ Bravo 2020 Lesson Plans](https://docs.google.com/spreadsheets/d/1iCuFcBFi3l4SkKj4hdrlp8_jJF6f7445rL5oaoOcFUI/edit#gid=290937798)
 
-Lesson planning happens once a week on Fridays in the Instructor meeting. This is tracked on a Google spreadsheet. A lesson plan doc is typically created in the LearnAcademy Google Drive for a cohort a few weeks before it starts.
+Lesson planning happens once a week on Fridays in the Instructor meeting. This is tracked on a Google spreadsheet. A lesson plan doc is typically created in the Learn Academy Google Drive for a cohort a few weeks before it starts.
 
 ## Classroom Facilitation
 
@@ -126,7 +128,7 @@ First a question is posed to the group. Some examples of past questions include:
 
 Each person answers the question and tells the group a little bit about their status coming into the day (mood/fears/situation). When they are done, they complete their check in by saying "I'm checking in". To which the group replies "Welcome". This continues until everyone is checked in.
 
-**Note for Remote:** In a virtual classroom, we require everyone turn their camera on during class check in. The response from the students can be a wave rather than an audible "welcome." The instructors will post a list of the students names in random order each morning. This speeds up the process of check in, considerably.
+**Note for Remote:** In a virtual classroom, we require everyone turn their camera on during class check in. The response from the students can be a wave rather than an audible "welcome." The instructors will post the check in question and a list of the students names in random order each morning to both the class Slack channel and the Zoom chat.
 
 
 ### Plan for the Day
@@ -159,13 +161,44 @@ In the past we've used a couple of formats.
 - A student then volunteers to organize the stickies.
 - Finally, instructors read through some of the stickies and answer some of the questions from the questions column.
 
-**Note for Remote:** A Google survey can be used as a substitute for the white board and sticky notes.
-
 **Wins and Losses**
 
 - Win: Something that went well this week or felt successful this week
 - Loss: Something that is still confusing or was difficult this week
 - Each person has the opportunity to reflect and share with the team what was a win and a loss for the week
+
+### One on Ones
+One on ones are an opportunity for the instructors to meet with the students individually to check in. One on ones with the instruction team typically take place during weeks 3, 9, and 12.
+
+The students will also have a one on one during week 7 with the career services manager regarding professional development.
+
+The structure of these meetings are typically freeform. It is left to the discretion of the instructor and student to discuss what is most helpful for the student. As a general guide, it is helpful to discuss the following:
+
+**Week 3:**
+- How the student is settling in at LEARN
+- The student's career goals after LEARN
+- How the student is responding to pair/mob programming
+
+**Week 9:**
+- How the student is responding to larger projects
+- The student's ideas or concerns regarding capstone projects
+- Discuss the student's internship interview concerns and provide tips and feedback
+
+**Week 12:**
+- Provide feedback on the student's tech talks
+- Discuss the outcome of the student's capstone project
+- Discuss the student's goals for internship
+
+Notes from each one on one are documented in [ HubSpot ](#hubspot).
+
+To document the notes use [ this Google form ](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit)) or enter the notes directly into HubSpot:
+- Search for the appropriate student in the search bar
+- On the left hand column, scroll down to `view all properties`
+- In the `All properties` list, scroll to the bottom and find the `1 on 1 Questions`
+- Select the appropriate Check in Notes (1st, 2nd, 3rd)
+- Include the date, the name of the person who conducted the one on one, and the pertinent details of your chat
+- Save!
+
 
 ## Instructor Tools
 
@@ -197,7 +230,7 @@ Here is a link to the steps to creating a Live Event: [Creating YouTube Live Eve
 
 ### Live Captioning
 
-In order to provide live captions of lectures a web service is used.  [Web Captioner](https://webcaptioner.com/captioner) site will caption the speaking live during the event through the standard microphone.  The web captioner only works with Google Chrome Browsers.  To include captions in the OBS live stream click the 3 dots next to Start Captioning and select New Window.  Adjust the new window to fit in the OBS screen by dragging the edges of the new window.  It has already been added to the OBS feed as Captions.  Information on [Terms of Service](https://webcaptioner.com/terms-of-service/) and [Privacy Policy](https://webcaptioner.com/privacy-policy/).
+In order to provide live captions of lectures a web service is used.  [Web Captioner](https://webcaptioner.com/captioner) site will caption the speaking live during the event through the standard microphone.  The web captioner only works with Google Chrome Browsers.  To include captions in the OBS live stream click the 3 dots next to Start Captioning and select New Window. Adjust the new window to fit in the OBS screen by dragging the edges of the new window.  It has already been added to the OBS feed as Captions.  Information on [Terms of Service](https://webcaptioner.com/terms-of-service/) and [Privacy Policy](https://webcaptioner.com/privacy-policy/).
 
 ### Google Drive
 
@@ -205,135 +238,9 @@ Google drive contains many of the documents related to non-curriculum related ta
 
 ### HubSpot
 
-HubSpot is LEARN's CRM (Customer Relationship Management) used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the One-on-One meetings that take place twice a during a cohort, typically in Week 3 and Week 8. To access HubSpot you will need to:
-- Follow [this link](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit) to a google form
-- Enter the student's email
-- Select the appropriate Meeting (1st, 2nd, 3rd)
-- Include the date, the name of the person who conducted the One-on-One, and any pertinent details
-- Submit! Woo!
+HubSpot is LEARN's CRM (Customer Relationship Management) used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the one on one meetings that take place three times a during a cohort. Typically, the one on ones occur during Week 3, Week 9, and Week 12 of the cohort.
 
-## Operations
-
-### Staff Meetings
-
-All Learn staff attend these weekly meetings which are typically held on Wednesday during the lunch hour. It is on occasion moved to another day if for example a bulk of staff cannot attend.
-
-But the meeting is essentially a check in with all the departments. It is organized such that each department (Marketing, Career Services, Instruction etc.) provides an update and answers any questions about what's happening in their realm of the organization.
-
-Instructors are responsible for reporting attendance, assessment status, and classroom progress. These updates can be done in Slack prior to the meeting.
-
-During the meeting, instructors give an update on the classroom, request any resources, or bring up any issues that have come about in the classroom. Since it is often challenging to keep track of all classroom items throughout the week and in between meetings, it is valuable to utilize the [ Classroom Admin Trello board ](https://trello.com/b/dQBMlYpI/classroom-admin) and keep it up to date for staff meetings.
-
-
-### Instructor Meetings
-
-These meetings are also typically held on a weekly basis. This is when instructors usually set up the teaching schedule (document who is going to teach which lessons), review and determine any necessary curriculum changes, delegate tasks related to curriculum changes, and discuss the the progress being made by the class. Discussions can sometimes lead to adjustments being made to the curriculum or the strategies used for teaching in the classroom.
-
-It's worth noting that many of the above items are often done ad hoc throughout the course.
-
-### Slack
-
-Slack is the main channel of communication within LEARN. You will use it to coordinate both with staff and students.
-
-LEARN Staff has a paid Slack account that is separate from the community account.
-
-The dedicated instructor channel is here: [ Teachers Channel ](https://app.slack.com/client/TV83K2TV0/C010CSRCT40)
-
-The general channel is for all staff communication:
-- [ General Channel ](https://app.slack.com/client/TV83K2TV0/CV83K3AH0)
-
-There is a channel that connects LEARN with Notch8's Slack account. This can be used for direct messages to anyone on the Notch8 team as well as requesting assistance from the Notch8 developers.
-- [ LEARN-Notch8 Channel ](https://app.slack.com/client/TV83K2TV0/C010VGJFPCJ)
-
-
-The LEARN community account will hold all the cohort channels as well as the *everybody* channel. The *everybody* channel connects all alumni, current students, staff, and community partners.
-- [ Everybody Channel ](https://app.slack.com/client/T04B40L2C/C04B40L4U)
-
-You will eventually join other channels as well including various cohort channels and the channels created by students entering capstone projects.
-
-
-### Trello
-
-Trello is used throughout Learn to track our tasks and objectives.
-
-The classroom and curriculum tasks are tracked here: [ Classroom Admin Trello Board ](https://trello.com/b/dQBMlYpI/classroom-admin)
-
-For a guide to the Classroom Admin Trello board, follow this link: [ Guide to Classroom Trello ](./classroom-admin-trello.md)
-
-Be sure to ask to be added to the following boards if interested:
-
-- [ Events ](https://trello.com/b/ofzfjXLM/events)
-- [ Career Services & Internship ](https://trello.com/b/Xl22q6Ry/career-services-internship)
-- [ Marketing ](https://trello.com/b/q2s0uEzR/marketing)
-- [ Operations](https://trello.com/b/saxLJBxV/operations)
-
-
-### Classroom Inventory
-
-Classroom inventory is checked on a weekly basis, ideally before staff meetings when any needs can be brought to the attention of admin staff. The administrative assistance helps facilitate tracking and ordering inventory.
-
-Classroom inventory (dry erase markers, printer ink, etc) is tracked here: [Ordering Inventory](https://docs.google.com/spreadsheets/d/1YCa8ulGBugSBD9vNvBCwnvaFcrZMYBq-nZKkrC4txzI/edit#gid=555668496)
-
-If it turns out there is any need for resources, a comment written with @chelseakaufman can be added to the [ Inventory ](https://trello.com/c/EKJAXwAa/6-inventory-mondays) card in Trello.
-
-### Station Inventory
-
-Station inventory is checked on a daily basis just to ensure that we are aware if any of our machines or peripherals move.
-
-Station inventory is tracked here: [ Station Inventory ](https://docs.google.com/spreadsheets/d/1361Y_1O6hv-iLjWUgy-mopdFWeo8bd7E980XWjaL1QU/edit#gid=0)
-
-This document just tracks the count of working equipment in each room. If any equipment breaks or becomes defective it is tracked in repairs here: [ Repair Inventory ](https://docs.google.com/spreadsheets/d/1EIPpqnUuRsLUr4PhzelK0eXf7FjBDU12Y18kf3kmKuI/edit#gid=0)
-
-Any defective equipment can be written in a comment on the [ Repair ](https://trello.com/c/RQnIlOWZ/5-repair) card in Trello.
-
-Typically, defective computer equipment is assessed by Rob before disposal. Larger equipment broken chairs/desks will be assessed by admin staff and usually handled by Union.
-
-### Troubleshooting Equipment
-
-**Projector Sound**
-
-There are two different sound setups that are possible in the classroom and the set up/troubleshooting process is different for each.
-
-##### Wired Speakers (Logitech)
-
-The Logitech speakers have a standard setup:
-
-- Line out from the projector to the speaker set.
-- Power on speaker (rotate knob clockwise until it clicks and amber light shines)
-- Adjust volume
-
-Troubleshooting:
-
-- Check that it is receiving power
-- Check that it is plugged into **AUDIO OUT** on projector
-- Volume is up (depending on the video, this may need to be cranked)
-
-##### Wired Speakers (Sonos)
-
-In order to control the source to the Sonos speaker, make sure you have the **Sonos App** downloaded on your phone.
-
-The set up is a bit different:
-
-- Line out from the projector to the Sonos speaker
-- The Sonos speaker is always on. When connected to power the status light near the touch controls will glow white
-- Open up the Sonos app on your phone
-- Select **Browse** in the app
-- Select **Line In**
-- Select **Audio Component** and the speaker should connect to it's line in
-
-- Select a specific room to play to:
-    - Enter the now playing pop up (right above the lower menu)
-    - Select the *square* to the right of the volume slider
-    - Select/Deselect the appropriate room
-
-Troubleshooting
-
-- Check that it is receiving power
-- Check that **AUDIO OUT** on projector is connected to **Line In** (aux in) on Sonos
-- Check that Sonos is playing the **Line In** source
-- Check that the appropriate room is selected in *Play to the following*
-- Volume is up
-
+To access HubSpot you will need to be granted access by the LEARN admin staff.
 
 ## Provisioning Machines
 
@@ -341,7 +248,7 @@ The provision repo is [here](https://github.com/LEARNAcademy/provision).
 
 ### Classroom Machines
 
-When there is an incoming class, we re-image all the machines in classroom that will serve as their lab. The process is documented here under  the first item 'Imaging Machines': [LEARN Classroom Setup Mac Mini](https://docs.google.com/document/d/1yZ1iNVaLKyDg6CTkNHZ0TdscdoYeQvczLaZKWibYfY0/edit#heading=h.efghimpqj7mi)
+When there is an incoming class, we re-image all the machines in classroom that will serve as their lab. The process is documented here under the first item 'Imaging Machines': [LEARN Classroom Setup Mac Mini](https://docs.google.com/document/d/1yZ1iNVaLKyDg6CTkNHZ0TdscdoYeQvczLaZKWibYfY0/edit#heading=h.efghimpqj7mi)
 
 This is generally handled by the more senior LEARN instructors.
 
@@ -363,7 +270,7 @@ Here is a broad breakdown of those tasks:
 - [Attendance](#attendance)
 - Instruction
 - [Grading Assessments](#grading-assessments)
-- [Student One on ones](#hubSpot)
+- [Student One on ones](#one-on-ones)
 - Fireside Chats
 
 **Admin/Facilitation**
@@ -523,4 +430,4 @@ Both admin and instruction staff take part in providing tech talk feedback.
 
 Providing feedback is less about grading student performance than it is about getting students comfortable with giving a tech talk and providing tips on how to improve a talk.
 
-Tech talk feedback is aggregated and delivered to the student during a one on one with an instructor. The one on one can be documented [here](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit).
+Tech talk feedback is aggregated and delivered to the student during a [one on one](#one-on-one) with an instructor.
