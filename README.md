@@ -40,7 +40,7 @@ This document is intended to help get you up to speed and navigating the classro
   - [ LEARN Internship Loaner Machines ](#learn-loaner-machines)
 - [ Day to Day Tasks](#day-to-day-tasks)
   - [ Attendance ](#attendance)
-  - [ Grading Assessments ](#grading-assessments)
+  - [ Assessments ](#assessments)
   - [ Yoga ](#yoga)
 - [ Capstone Projects Tasks ](#capstone-projects-tasks)
   - [ Requirements ](#requirements)
@@ -226,7 +226,7 @@ Here is a broad breakdown of those tasks:
 - Daily Schedule
 - [Attendance](#attendance)
 - Instruction
-- [Grading Assessments](#grading-assessments)
+- [Assessments](#assessments)
 - [Student One on ones](#one-on-ones)
 - Fireside Chats
 
@@ -252,17 +252,21 @@ Here is a broad breakdown of those tasks:
 
 Attendance is taken daily and tracked in the LEARN Google drive with a form [like this](https://docs.google.com/spreadsheets/d/1VOQx_bi_tPLPkTqkzCNya1TiwfCoMQg4sJGAllraY98/edit#gid=0). Students are expected to be in class everyday from 9-5. If a student misses the class check in the student is considered late. Habitual tardiness or absences put the student at risk to be disqualified for internship. The full absence policy can be found [here](./attendance-issues.md).
 
-### Grading Assessments
+### Assessments
 Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. Full details of the [assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. Once submitted, the instructors:
 -  Review the code and short answers and give feedback with comments in GitHub
 - If the assessment is complete and up to par, the instructor can approve the request
-- Once the pull request is approved, the student will merge their code to master and their assessment is complete
+- Once the pull request is approved, the student will merge their code
 - To track this process, a google form [like this](https://docs.google.com/spreadsheets/d/15a68xRUube8kWDl3YE_0ziXHfB2Rzbo3YDRTRWLx3n0/edit#gid=0) is kept in the LEARN Google drive
 - Assessments serve as a tool to identify students who need may need additional help or one-on-one attention
 
+The goal of assessments is to allow the student to self-evaluate. Assessments are reviewed by the instruction team but not graded.
+
+It is important to communicate to the students the intention and goal of the assessments. This will often need to be reestablished throughout the course. 
+
 ### Yoga
 
-LEARN offers a yoga class (as well as mats and supplies) to the students and faculty every Tuesday at 5:30pm. On Monday, the faculty in charge of organizing yoga can reach out to the usual participants via the Slack [Yoga Channel](https://app.slack.com/client/T04B40L2C/CLBAWENES). If two or more participants intend to join, confirm with our wonderful instructor, Renda. Hillary can provide her contact information. Yoga is practiced in the classroom with the furniture pushed to the side.
+LEARN offers a yoga class (as well as mats and supplies) to the students and faculty every Tuesday at 5:30pm. On Monday, the faculty in charge of organizing yoga can reach out to the usual participants via the Slack [Yoga Channel](https://app.slack.com/client/T04B40L2C/CLBAWENES). If two or more participants intend to join, confirm with our wonderful instructor, Renda. Hillary or Sarah can provide her contact information. Yoga is practiced in the classroom with the furniture pushed to the side.
 
 **Note for Remote:** Yoga will take place via Zoom. The link is provided by the yoga instructor and sent to the Yoga Slack channel.
 
