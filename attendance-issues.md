@@ -22,7 +22,7 @@ If the student misses two additional days of class, the next step is a meeting w
 
 If a student is repeatedly late or leaves class early, the instruction team will choose a staff member to sit down with the student.
 
-**Record-keeping
+#### Record-keeping
 
 Attendance is kept in a Google Document. Once you have email access, you should have access to the staff Google Drive. 
 
