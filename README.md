@@ -91,6 +91,8 @@ For the most part, the days consist of either a morning and afternoon lesson wit
 
 **Note for Remote:** A virtual classroom requires additional planning and managing throughout the day. A detailed breakdown of Instructor responsibilities and flow for a virtual classroom can be found [here](./virtual-classroom.md).
 
+For the first three weeks, team building exercises are scheduled 2-3 times a week. Team building activities can be found [here](https://docs.google.com/document/d/1ntHroUNYuVL7ENkq3jUBQp5iPQXL_Y5BGwKQsh56eqY/edit?usp=sharing).
+
 
 ### The Syllabus
 
@@ -171,12 +173,40 @@ In the past we've used a couple of formats.
 - Loss: Something that is still confusing or was difficult this week
 - Each person has the opportunity to reflect and share with the team what was a win and a loss for the week
 
-### One on Ones
-One on ones are an opportunity for the instructors to meet with the students individually to check in. One on ones with the instruction team typically take place during weeks 3, 9, and 12.
+### One-on-Ones
+One on ones are an opportunity for the instructors to meet with the students individually to check-in. One-on-ones with the instruction team typically take place the week before the cohort begins, and during weeks 3, 9, and 12.
 
-The students will also have a one on one during week 7 with the career services manager regarding professional development.
+Notes from each one-on-one are documented in [HubSpot](./student-progress-hubspot.md).
+
+The students will also have a one-on-one during week 7 with the career services manager regarding professional development.
 
 The structure of these meetings are typically freeform. It is left to the discretion of the instructor and student to discuss what is most helpful for the student. As a general guide, it is helpful to discuss the following:
+
+**Week 0:**
+- Motivations and decision process to join the full time course
+- If they have a vision about what happens after the course
+- What background do they have in programming? At college or professionally
+- How have they found the online tutorials?
+- Do they know what kind of learner they are?
+- What technical equipment do they have at home?
+- Remind them of what they should be doing to prepare for the first day of class
+- Logistics for what a regular day looks like and what will be covered in the 12 weeks in class
+- Expectations in terms of pair programming, collaboration and involvement in community
+- Appearance, Etiquette and Professional Conduct
+This meeting is also an opportunity for students to ask questions about any and all aspects of the course.
+
+Additional questions:
+- What do you do when you get stuck?
+- How do you find solutions to the problem you are currently facing?
+- How long do you usually try to find a solution yourself before asking for help?
+- How do you normally take notes?
+- How comfortable do you feel asking questions in the middle of a lecture?
+- How do you plan to manage a work-life balance?
+- How do you track deadlines?
+- How much out-of-classroom time do you plan to spend reviewing what you learned that day?
+- How do you learn? Do you need to process information or do you absorb quickly?
+- What do you think the difference is between a bootcamp and a regular class? (Goes into expectations of the program, not needing to memorize everything, ok to google, etc.)
+- What kind of student are you?
 
 **Week 3:**
 - How the student is settling in at LEARN
@@ -192,16 +222,6 @@ The structure of these meetings are typically freeform. It is left to the discre
 - Provide feedback on the student's tech talks
 - Discuss the outcome of the student's capstone project
 - Discuss the student's goals for internship
-
-Notes from each one on one are documented in [ HubSpot ](#hubspot).
-
-To document the notes use [ this Google form ](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit)) or enter the notes directly into HubSpot:
-- Search for the appropriate student in the search bar
-- On the left hand column, scroll down to `view all properties`
-- In the `All properties` list, scroll to the bottom and find the `1 on 1 Questions`
-- Select the appropriate Check in Notes (1st, 2nd, 3rd)
-- Include the date, the name of the person who conducted the one on one, and the pertinent details of your chat
-- Save!
 
 ## Provisioning Machines
 
