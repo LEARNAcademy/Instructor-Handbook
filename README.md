@@ -128,6 +128,9 @@ First a question is posed to the group. Some examples of past questions include:
 
 Each person answers the question and tells the group a little bit about their status coming into the day (mood/fears/situation). When they are done, they complete their check in by saying "I'm checking in". To which the group replies "Welcome". This continues until everyone is checked in.
 
+[List of questions in Google Drive can be found here](https://docs.google.com/document/d/1h4VtVJIL5GlhZrsxX6dVQmEM2SL638r87SjqoShqYoU/edit?usp=sharing)
+Indicate which questions have been used (and for which cohort) to prevent repeating a question.
+
 **Note for Remote:** In a virtual classroom, we require everyone turn their camera on during class check in. The response from the students can be a wave rather than an audible "welcome." The instructors will post the check in question and a list of the students names in random order each morning to both the class Slack channel and the Zoom chat.
 
 
