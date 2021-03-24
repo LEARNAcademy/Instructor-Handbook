@@ -24,7 +24,6 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Live Captioning ](./instructor-tools.md#live-captioning)
   - [ Google Drive ](./instructor-tools.md#google-drive)
   - [ HubSpot ](./instructor-tools.md#hubspot)
-  - [ One on One Form ](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit)
 - [ Operations ](./operations.md)
   - [ Staff Meetings ](./operations.md#staff-meetings)
   - [ Instructor Meetings ](./operations.md#instructor-meetings)
