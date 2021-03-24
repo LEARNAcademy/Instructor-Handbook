@@ -96,6 +96,14 @@ Other boards:
 - [ Marketing ](https://trello.com/b/q2s0uEzR/marketing)
 - [ Operations ](https://trello.com/b/saxLJBxV/operations)
 
+### HubSpot
+
+HubSpot is LEARN's CRM (Customer Relationship Management) used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the one-on-one meetings that take place four times within each cohort: the week before the cohort begins, Week 3, Week 9, and Week 12.
+
+To access HubSpot you will need to be granted access by the LEARN admin staff.
+
+For information on navigating HubSpot and which fields we used to document information: [Tracking Student Progress in HubSpot](./student-progress-hubspot.md)
+
 ### YouTube
 
 LEARN uses YouTube to capture lessons using Live Events.
@@ -107,13 +115,5 @@ Here is a link to the steps to creating a Live Event: [Creating YouTube Live Eve
 ### Live Captioning
 
 In order to provide live captions of lectures a web service is used. [Web Captioner](https://webcaptioner.com/captioner) site will caption the speaking live during the event through the standard microphone.  The web captioner only works with Google Chrome Browsers.  To include captions in the OBS live stream click the 3 dots next to Start Captioning and select New Window. Adjust the new window to fit in the OBS screen by dragging the edges of the new window.  It has already been added to the OBS feed as Captions.  Information on [Terms of Service](https://webcaptioner.com/terms-of-service/) and [Privacy Policy](https://webcaptioner.com/privacy-policy/).
-
-### HubSpot
-
-HubSpot is LEARN's CRM (Customer Relationship Management) used to track student communication, progress, and interactions from their initial contact with LEARN all the way through job placement. As an instructor, you are responsible for adding notes detailing the one-on-one meetings that take place four times within each cohort: the week before the cohort begins, Week 3, Week 9, and Week 12.
-
-To access HubSpot you will need to be granted access by the LEARN admin staff.
-
-For information on navigating HubSpot and which fields we used to document information: [Tracking Student Progress in HubSpot](./student-progress-hubspot.md)
 
 [ Back to Main Handbook ](./README.md#instructor-handbook)
