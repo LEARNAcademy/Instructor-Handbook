@@ -108,7 +108,7 @@ Here is an example of a previous cohort syllabus: [ Bravo 2020 Syllabus ](https:
 
 When giving a lesson, you will typically work from the material on the cohort syllabus.
 
-**Note**: The syllabus is a living document. For the workflow on pushing changes to the syllabus and to cohort syllabi follow this [ link ](https://github.com/LEARNAcademy/Syllabus/wiki) to the syllabus wiki.
+**Note**: The syllabus is a living document. For the workflow on pushing changes to the syllabus and to cohort syllabi follow this [ link ](https://github.com/LEARNAcademy/Syllabus/wiki) to the syllabus wiki. Also, please follow style guidelines outlined [here](#TBA).
 
 ### Lesson Planning
 
@@ -262,16 +262,6 @@ Here is a broad breakdown of those tasks:
 - PD Schedule Coordination
 - [Station Imaging](#machine-imaging)
 
-**Jumpstart**
-- [Jumpstart Trello](https://trello.com/b/BYycV15b/jumpstart) for Prep and Planning
-- Instructor/ TA / Admin Scheduling
-- Monday Email to Participants
-- Communication via Slack for All Involved
-- Meal planning
-- Food ordering and delivery
-- Jump Drive Setup
-- Curriculum Folders
-
 ### Attendance
 
 Attendance is taken daily and tracked in the LEARN Google drive with a form [like this](https://docs.google.com/spreadsheets/d/1VOQx_bi_tPLPkTqkzCNya1TiwfCoMQg4sJGAllraY98/edit#gid=0). Students are expected to be in class everyday from 9-5. If a student misses the class check in the student is considered late. Habitual tardiness or absences put the student at risk to be disqualified for internship. The full absence policy can be found [here](./attendance-issues.md).
@@ -415,6 +405,23 @@ Both admin and instruction staff take part in providing tech talk feedback.
 
 Providing feedback is less about grading student performance than it is about getting students comfortable with giving a tech talk and providing tips on how to improve a talk.
 
-Tech talk feedback is aggregated and delivered to the student during a [one on one](#one-on-one) with an instructor.
+Tech talk feedback is aggregated and delivered to the student during a [one-on-one](#one-on-one) with an instructor.
 
 [ Back to Table of Contents ](./README.md#instructor-handbook)
+
+## Jumpstart & Mini-Workshop
+
+### Jumpstart
+
+The goal of Jumpstart is to familiarize potential students with the day-to-day experience they would have within a cohort.
+- Visit [Jumpstart Trello](https://trello.com/b/BYycV15b/jumpstart) for prep and planning tasks, TA handbook, information email templates that needs to be sent to attendees, and links to Google Drive for course materials
+
+### Mini-Workshops
+
+The goal of mini-workshops is to generate interest and help people with no coding experience build foundational understanding so that when they eventually attend Jumpstart, it isn't as intimidating and overwhelming. While the mini-workshop is a series, the approach for each workshop is that attendees have no coding experience and are not required to have attended any other mini-workshop.
+
+Currently there are four mini-workshops:
+1. WTF is Coding?
+2. [Building your first website](https://github.com/LEARNAcademy/build-your-own-website)
+3. [Understanding Dev Tools](https://github.com/LEARNAcademy/workshop-dev-tools)
+
