@@ -49,7 +49,7 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Leading up to Tech Talks ](#leading-up-to-tech-talks)
   - [ Preparation ](#preparation)
   - [ Feedback ](#feedback)
-- [ Jumpstart & Mini-workshops](#jumpstart-&-mini-workshops)
+- [ Jumpstart & Mini-workshops](#jumpstart--mini-workshop)
 
 ## Instruction
 
@@ -410,7 +410,7 @@ Tech talk feedback is aggregated and delivered to the student during a [one-on-o
 
 [ Back to Table of Contents ](./README.md#instructor-handbook)
 
-## Jumpstart & Mini-Workshop
+## Jumpstart & Mini-Workshops
 
 ### Jumpstart
 
