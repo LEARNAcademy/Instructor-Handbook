@@ -25,7 +25,7 @@ Go to [www.hubspot.com](www.hubspot.com)
 ![Identify the Student Records section](./assets/hubspot_03_student_records.png)
 
 - Input one-on-one notes, including your name and the date the one-on-one took place
-![Input one-on-one notes, including your name and the date the one-on-one took place](./assets/hubspot_03_student_records.png)
+![Input one-on-one notes, including your name and the date the one-on-one took place](./assets/hubspot_04_instructor_check_in_fields.png)
 
 - Save! 
 - Pro-tip: The save button is strangely unreliable so as you're taking notes during one-on-ones, it might be safer to do it in a Google Document or somewhere where you have it kept safely for backup because HubSpot has a tendency to not save input sometimes.
