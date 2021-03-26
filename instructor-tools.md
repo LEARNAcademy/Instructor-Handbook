@@ -41,6 +41,8 @@ On the first day, the only repository that is forked in the organization is [Syl
 
 When assignments are created, a link is generated for each GitHub user associated with the classroom.  When a student accepts the assignment by clicking the link, a name-spaced repo for that assignment/project is cloned within the cohort organization for that specific student.
 
+#### GitHub Classroom Assignments
+
 There are two main categories of GitHub Classroom assignments:
 
 1. Assessments (Individual assignments): 

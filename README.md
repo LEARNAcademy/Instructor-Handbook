@@ -91,8 +91,6 @@ For the most part, the days consist of either a morning and afternoon lesson wit
 
 **Note for Remote:** A virtual classroom requires additional planning and managing throughout the day. A detailed breakdown of Instructor responsibilities and flow for a virtual classroom can be found [here](./virtual-classroom.md).
 
-For the first three weeks, team building exercises are scheduled 2-3 times a week. Team building activities can be found [here](https://docs.google.com/document/d/1ntHroUNYuVL7ENkq3jUBQp5iPQXL_Y5BGwKQsh56eqY/edit?usp=sharing).
-
 
 ### The Syllabus
 
@@ -271,6 +269,8 @@ Attendance is taken daily and tracked in the LEARN Google drive with a form [lik
 ### Assessments
 Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. For full details of the [git workflow assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. 
 
+[Here is a quick reference to assessment repos](./instructor-tools.md#github-classroom-assignments)
+
 Once submitted, the instructors:
 - Review the code and short answers and give feedback with comments in GitHub
 - If the assessment is complete and up to par (see Grading Scale below), the instructor approves the pull request.
@@ -376,7 +376,7 @@ Ideally, the projects are fully deployed *prior* to the Final Client Check In.
 
 Reviewing pull requests on the capstone projects becomes one of the main tasks for instructors during this phase of the program. It is an opportunity for instructors to fill in some of the best practice gaps and work in the some real world conceptual and domain knowledge.
 
-Provide feedback up those PRs! 
+Comment up those PRs! 
 
 It is expected that you will bring your best practices with you along with your PR standards, some of which may be listed here. But you can start with these:
 

@@ -48,4 +48,4 @@ To create Breakout Rooms prior to a meeting (such as for Jumpstart):
 
 ### Recording
 
-- Select the "Record to Cloud" option.
+- [Visit Recording Lecture ReadMe](./recording-lecture.md)
