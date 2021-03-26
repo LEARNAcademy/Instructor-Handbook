@@ -26,7 +26,6 @@ This document is intended to help get you up to speed and navigating the classro
   - [ HubSpot ](./instructor-tools.md#hubspot)
   - [ YouTube ](./instructor-tools.md#youtube)
   - [ Live Captioning ](./instructor-tools.md#live-captioning)
-
 - [ Operations ](./operations.md)
   - [ Staff Meetings ](./operations.md#staff-meetings)
   - [ Instructor Meetings ](./operations.md#instructor-meetings)
@@ -34,7 +33,7 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Station Inventory ](./operations.md#station-inventory)
   - [ Troubleshooting Equipment ](./operations.md#troubleshooting-equipment)
 - [Provisioning Machines](#provisioning-machines)
-  - [Provision Repo](https://github.com/LEARNAcademy/provision)
+  - [ Provision Repo ](https://github.com/LEARNAcademy/provision)
   - [ Classroom Machines ](#classroom-machines)
   - [ Remote Classroom Macbooks ](./laptop-provisioning.md)
   - [ LEARN Internship Loaner Machines ](#learn-loaner-machines)
@@ -49,7 +48,7 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Leading up to Tech Talks ](#leading-up-to-tech-talks)
   - [ Preparation ](#preparation)
   - [ Feedback ](#feedback)
-- [ Jumpstart & Mini-workshops](#jumpstart--mini-workshop)
+- [ Jumpstart & Mini-workshops](#jumpstart--mini-workshops)
 
 ## Instruction
 
@@ -268,16 +267,51 @@ Here is a broad breakdown of those tasks:
 Attendance is taken daily and tracked in the LEARN Google drive with a form [like this](https://docs.google.com/spreadsheets/d/1VOQx_bi_tPLPkTqkzCNya1TiwfCoMQg4sJGAllraY98/edit#gid=0). Students are expected to be in class everyday from 9-5. If a student misses the class check in the student is considered late. Habitual tardiness or absences put the student at risk to be disqualified for internship. The full absence policy can be found [here](./attendance-issues.md).
 
 ### Assessments
-Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. Full details of the [assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. Once submitted, the instructors:
--  Review the code and short answers and give feedback with comments in GitHub
-- If the assessment is complete and up to par, the instructor can approve the request
+Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. For full details of the [git workflow assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. 
+
+Once submitted, the instructors:
+- Review the code and short answers and give feedback with comments in GitHub
+- If the assessment is complete and up to par (see Grading Scale below), the instructor approves the pull request.
 - Once the pull request is approved, the student will merge their code
-- To track this process, a google form [like this](https://docs.google.com/spreadsheets/d/15a68xRUube8kWDl3YE_0ziXHfB2Rzbo3YDRTRWLx3n0/edit#gid=0) is kept in the LEARN Google drive
-- Assessments serve as a tool to identify students who need may need additional help or one-on-one attention
+- To track student process, a Google Sheet is used to stored notes about the assessment and feedback provided to the student. This document lives in the Admin Google Drive: `LEARN Academy > Classroom > \*Cohort Records and Documentation > Select the year the cohort is in > Select the cohort`. At the end of each cohort, these assessment and feedback info is transferred to HubSpot. (We track in the Google Sheet first, then transfer to HubSpot because it's quicker and easier to use week-to-week.)
+- Assessments serve as a tool to identify students who need may need additional help or one-on-one attention. Reviewers should surface concerns to instruction staff if there are clear signs of thoughtless copy & pasting.
 
-The goal of assessments is to allow the student to self-evaluate. Assessments are reviewed by the instruction team but not graded.
+#### Reviewing Assessments
 
-It is important to communicate to the students the intention and goal of the assessments. This will often need to be reestablished throughout the course. 
+The goal of assessments is to allow the student to self-evaluate. While we have primarily not graded assessments, we're moving towards providing a marker of progress/proficiency on assessments as documented in the [Course Catalogue](https://docs.google.com/document/d/1xU9dPvHPIcHHuZakHInZS4XVQbUBmdH--UtNdOhnf38/edit?usp=sharing).
+
+The grading scale as of 3/25/2021 is as follows:
+- **Proficient**: The student can put concepts together to form a whole, creating a new meaning or structure and make judgements about the value of the concepts or materials. 
+- **Competent**: The student can apply the concepts in particular situations and/or separate concepts into component parts analyzing their organizational structure.
+- **Advanced Beginner**: The student can recite memorized information about the concepts and/or demonstrate a basic understanding of the concepts by explaining them in his or her own words.
+- **Incomplete**: An attempt has not been made on one or more questions in the assessment
+
+#### Assessment Review Checklist
+
+Things to account for when considering completeness of an assessment:
+- Did the student attempt all questions/tests (even with only pseudocode)? 
+- Were tests for each problem run? (evidenced by package.json file for jest testing)
+- Did the student create a proper pull request to submit assessment?
+
+Note: An attempt at a solution can be defined as: 
+- a complete implementation of a solution
+- a complete solution in pseudocode without code implementation
+- a code implementation that does not run properly and notes outlining what the student attempted and where they got stuck
+- an incomplete code implementation that includes pseudocode outlining their flow of logic
+- interview answers in both the "your answer" and "researched answer" sections
+- an attempt to provide definitions for all of the "looking ahead" terms
+
+#### Feedback
+
+It is important to communicate to the students the intention and goal of the assessments and grading scale. This will often need to be reestablished throughout the course. 
+
+Feedback should be provided when:
+- an answer is incomplete or does not run
+- a student asks a question in their comments or explains where they got stuck
+- the solution runs but could be more efficient (like nested for loops or if statements)
+- a solution is done very well (leave celebratory feedback!)
+- it's clear the student came to the solution easily and could use a challenge
+- whenever the reviewer finds it necessary to provide additional guidance or information to the student
 
 ### Yoga
 
@@ -338,9 +372,9 @@ Ideally, the projects are fully deployed *prior* to the Final Client Check In.
 
 **Code Reviews (Reviewing Pull Requests)**
 
-Reviewing pull requests on the capstone projects becomes a one of the main tasks for instructors during this phase of the program. It is an opportunity for instructors to fill in some of the best practice gaps and work in the some real world conceptual and domain knowledge.
+Reviewing pull requests on the capstone projects becomes one of the main tasks for instructors during this phase of the program. It is an opportunity for instructors to fill in some of the best practice gaps and work in the some real world conceptual and domain knowledge.
 
-Comment up those PRs!
+Provide feedback up those PRs! 
 
 It is expected that you will bring your best practices with you along with your PR standards, some of which may be listed here. But you can start with these:
 
@@ -348,6 +382,7 @@ It is expected that you will bring your best practices with you along with your 
 - Recommend deleting broken/incomplete/commented out code
 - Draw attention to opportunities to refactor (DRY up or otherwise clean up implementation)
 - Recommend removing logs (`console.log()`/`puts`/`pp`)
+- Remind them about writing tests for their implementation
 
 **Client Check Ins**
 
