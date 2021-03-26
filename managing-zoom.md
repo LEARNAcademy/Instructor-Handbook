@@ -3,7 +3,7 @@
 Behind the scenes of managing a Zoom Meeting can be quite overwhelming.
 An assumption being made here: that you've installed Zoom Desktop application onto your computer.
 
-To create Breakout Rooms prior to a meeting (such as Jumpstart):
+To create Breakout Rooms prior to a meeting (such as for Jumpstart):
 
 - Sign into your account through the desktop application
 
@@ -33,9 +33,9 @@ To create Breakout Rooms prior to a meeting (such as Jumpstart):
 - Click the generated room to enable options to edit the room name. Click the room name to edit.
 ![Edit room](./assets/zoom_07.png)
 
-- Make sure to click Save on the "Breakout Room Assignment". Failure to do so will erase all rooms created.
+- Make sure to click Save on the "Breakout Room Assignment" model. **Failure to do so will erase all rooms created.**
 
-- At this point, for Jumpstart, we do not actually assign the participants because we will not have access to their Zoom user accounts. We assign participants to rooms while the Zoom meeting is in session.
+- For Jumpstart, we do not actually assign the participants until the Zoom meeting is in session.
 
 
 ### Managing Breakout Rooms
