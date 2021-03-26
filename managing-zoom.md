@@ -41,3 +41,11 @@ To create Breakout Rooms prior to a meeting (such as Jumpstart):
 ### Managing Breakout Rooms
 
 - [This video is helpful.](https://youtu.be/jbPpdyn16sY)
+
+### Host and Co-Host Powers
+
+- [This video is also helpful.](https://youtu.be/ygZ96J_z4AY)
+
+### Recording
+
+- Select the "Record to Cloud" option.
