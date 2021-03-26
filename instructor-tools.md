@@ -117,3 +117,10 @@ Here is a link to the steps to creating a Live Event: [Creating YouTube Live Eve
 In order to provide live captions of lectures a web service is used. [Web Captioner](https://webcaptioner.com/captioner) site will caption the speaking live during the event through the standard microphone.  The web captioner only works with Google Chrome Browsers.  To include captions in the OBS live stream click the 3 dots next to Start Captioning and select New Window. Adjust the new window to fit in the OBS screen by dragging the edges of the new window.  It has already been added to the OBS feed as Captions.  Information on [Terms of Service](https://webcaptioner.com/terms-of-service/) and [Privacy Policy](https://webcaptioner.com/privacy-policy/).
 
 [ Back to Main Handbook ](./README.md#instructor-handbook)
+
+### Gusto
+
+Gusto is the payroll, benefits, HR platform.
+
+For hourly employees, you'll need to track hours daily.
+On here, you can request paid-time off, vuew paystubs, make benefit elections.

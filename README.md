@@ -174,11 +174,13 @@ In the past we've used a couple of formats.
 - Each person has the opportunity to reflect and share with the team what was a win and a loss for the week
 
 ### One-on-Ones
-One on ones are an opportunity for the instructors to meet with the students individually to check-in. One-on-ones with the instruction team typically take place the week before the cohort begins, and during weeks 3, 9, and 12.
+One-on-ones are an opportunity for the instructors to meet with the students individually to check-in. One-on-ones with the instruction team typically take place the week before the cohort begins, and during weeks 3, 9, and 12.
 
 Notes from each one-on-one are documented in [HubSpot](./student-progress-hubspot.md).
 
 The students will also have a one-on-one during week 7 with the career services manager regarding professional development.
+
+It is also important to emphasize that the one-on-one is time allocated for doing what they need. Sometimes, it might be that they need to talk about group dynamics, anxieties, etc. Other times, it might mean that they need to pair-program on a problem so that they can more thoroughly understand a concept.
 
 The structure of these meetings are typically freeform. It is left to the discretion of the instructor and student to discuss what is most helpful for the student. As a general guide, it is helpful to discuss the following:
 
@@ -193,7 +195,7 @@ The structure of these meetings are typically freeform. It is left to the discre
 - Logistics for what a regular day looks like and what will be covered in the 12 weeks in class
 - Expectations in terms of pair programming, collaboration and involvement in community
 - Appearance, Etiquette and Professional Conduct
-This meeting is also an opportunity for students to ask questions about any and all aspects of the course.
+- This meeting is also an opportunity for students to ask questions about any and all aspects of the course.
 
 Additional questions:
 - What do you do when you get stuck?
@@ -257,7 +259,7 @@ Here is a broad breakdown of those tasks:
 **Admin/Facilitation**
 - Classroom Inventory
 - [Station Inventory](#station-inventory)
-- Attendance Issues
+- [Attendance Issues](./attendance-issues.md)
 - Tuesday [Yoga](#yoga) Setup
 - PD Schedule Coordination
 - [Station Imaging](#machine-imaging)
