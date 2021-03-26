@@ -12,13 +12,19 @@ Note: These are input directly into Hubspot.
 
 Go to [www.hubspot.com](www.hubspot.com)
 
+- Click the magnifying glass icon
 ![Click the magnifying glass icon](./assets/hubspot_00_search_icon.png)
+
+- Search for the appropriate student in the search bar by name
 ![Search for the appropriate student in the search bar by name](./assets/hubspot_01_name.png)
 
+- On the left hand column, scroll down to `view all properties`
 ![On the left hand column, scroll down to `view all properties`](./assets/hubspot_02_view_all_props.png)
 
+- Identify the Student Records section
 ![Identify the Student Records section](./assets/hubspot_03_student_records.png)
 
+- Input one-on-one notes, including your name and the date the one-on-one took place
 ![Input one-on-one notes, including your name and the date the one-on-one took place](./assets/hubspot_03_student_records.png)
 
 - Save! 
