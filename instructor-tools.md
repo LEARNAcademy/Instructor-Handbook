@@ -22,13 +22,13 @@ There are three Slack workspaces:
 2. **LEARN** community will hold all the cohort channels as well as the *everybody* channel. The *everybody* channel connects all alumni, current students, staff, and community partners.
 - [#everybody](https://app.slack.com/client/T04B40L2C/C04B40L4U)
 
-- [#senior-dev-mentors]: connects staff with Zeal mentors to coordinate meetings and involvement for Capstone projects
+- #senior-dev-mentors: connects staff with Zeal mentors to coordinate meetings and involvement for Capstone projects
 
 3. **LEARN Jumpstart** is used through a Jumpstart weekend. Documentation for managing users to this workspace can be found on the [Jumpstart Trello Board](https://trello.com/b/BYycV15b/jumpstart).
 
-- [#jumpstart-students]: for every Jumpstart, students/volunteers who have participated in previous Jumpstart Weekends need to be deactivated from the channel. This may require permissions to do so.
+- #jumpstart-students: for every Jumpstart, students/volunteers who have participated in previous Jumpstart Weekends need to be deactivated from the channel. This may require permissions to do so.
 
-- [#volunteers]: to coordinate with Jumpstart volunteers
+- #volunteers: to coordinate with Jumpstart volunteers
 
 You will eventually join other channels as well including various cohort channels and the channels created by students entering capstone projects.
 
