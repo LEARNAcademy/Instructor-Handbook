@@ -9,26 +9,27 @@ There are three Slack workspaces:
 
 1. **LEARN Staff** has a paid Slack account that is separate from the community account.
 
-- [#teachers](https://app.slack.com/client/TV83K2TV0/C010CSRCT40): dedicated instructors channel
+  - [#teachers](https://app.slack.com/client/TV83K2TV0/C010CSRCT40): dedicated instructors channel
 
-- [#general](https://app.slack.com/client/TV83K2TV0/CV83K3AH0): all staff communication and daily meetings (with applicable Zoom links/location) are posted at the top of the morning
+  - [#general](https://app.slack.com/client/TV83K2TV0/CV83K3AH0): all staff communication and daily meetings (with applicable Zoom links/location) are posted at the top of the morning
 
-- [#learn-notch8](https://app.slack.com/client/TV83K2TV0/C010VGJFPCJ): connects LEARN with Notch8's Slack account. This can be used for direct messages to anyone on the Notch8 team as well as requesting assistance from the Notch8 developers.
+  - [#learn-notch8](https://app.slack.com/client/TV83K2TV0/C010VGJFPCJ): connects LEARN with Notch8's Slack account. This can be used for direct messages to anyone on the Notch8 team as well as requesting assistance from the Notch8 developers.
 
-- #events
+  - #events
 
-- #softwareresidency
+  - #softwareresidency
 
 2. **LEARN** community will hold all the cohort channels as well as the *everybody* channel. The *everybody* channel connects all alumni, current students, staff, and community partners.
-- [#everybody](https://app.slack.com/client/T04B40L2C/C04B40L4U)
 
-- #senior-dev-mentors: connects staff with Zeal mentors to coordinate meetings and involvement for Capstone projects
+  - [#everybody](https://app.slack.com/client/T04B40L2C/C04B40L4U)
+
+  - #senior-dev-mentors: connects staff with Zeal mentors to coordinate meetings and involvement for Capstone projects
 
 3. **LEARN Jumpstart** is used through a Jumpstart weekend. Documentation for managing users to this workspace can be found on the [Jumpstart Trello Board](https://trello.com/b/BYycV15b/jumpstart).
 
-- #jumpstart-students: for every Jumpstart, students/volunteers who have participated in previous Jumpstart Weekends need to be deactivated from the channel. This may require permissions to do so.
+  - #jumpstart-students: for every Jumpstart, students/volunteers who have participated in previous Jumpstart Weekends need to be deactivated from the channel. This may require permissions to do so.
 
-- #volunteers: to coordinate with Jumpstart volunteers
+  - #volunteers: to coordinate with Jumpstart volunteers
 
 You will eventually join other channels as well including various cohort channels and the channels created by students entering capstone projects.
 
@@ -36,9 +37,9 @@ You will eventually join other channels as well including various cohort channel
 
 Zoom is for video conferencing. 
 
-- [For steps on setting up breakout rooms, hosting, etc](./managing-zoom.md)
+  - [For steps on setting up breakout rooms, hosting, etc](./managing-zoom.md)
 
-- [For recording with Zoom](./recording-lecture.md)
+  - [For recording with Zoom](./recording-lecture.md)
 
 
 ### GitHub
