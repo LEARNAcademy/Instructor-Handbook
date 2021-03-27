@@ -5,20 +5,30 @@
 
 Slack is the main channel of communication within LEARN. You will use it to coordinate both with staff and students.
 
-LEARN Staff has a paid Slack account that is separate from the community account.
+There are three Slack workspaces:
 
-The dedicated instructor channel is here: 
-- [ Teachers Channel ](https://app.slack.com/client/TV83K2TV0/C010CSRCT40)
+1. **LEARN Staff** has a paid Slack account that is separate from the community account.
 
-The general channel is for all staff communication:
-- [ General Channel ](https://app.slack.com/client/TV83K2TV0/CV83K3AH0)
+- [#teachers](https://app.slack.com/client/TV83K2TV0/C010CSRCT40): dedicated instructors channel
 
-There is a channel that connects LEARN with Notch8's Slack account. This can be used for direct messages to anyone on the Notch8 team as well as requesting assistance from the Notch8 developers.
-- [ LEARN-Notch8 Channel ](https://app.slack.com/client/TV83K2TV0/C010VGJFPCJ)
+- [#general](https://app.slack.com/client/TV83K2TV0/CV83K3AH0): all staff communication and daily meetings (with applicable Zoom links/location) are posted at the top of the morning
 
+- [#learn-notch8](https://app.slack.com/client/TV83K2TV0/C010VGJFPCJ): connects LEARN with Notch8's Slack account. This can be used for direct messages to anyone on the Notch8 team as well as requesting assistance from the Notch8 developers.
 
-The LEARN community account will hold all the cohort channels as well as the *everybody* channel. The *everybody* channel connects all alumni, current students, staff, and community partners.
-- [ Everybody Channel ](https://app.slack.com/client/T04B40L2C/C04B40L4U)
+- #events
+
+- #softwareresidency
+
+2. **LEARN** community will hold all the cohort channels as well as the *everybody* channel. The *everybody* channel connects all alumni, current students, staff, and community partners.
+- [#everybody](https://app.slack.com/client/T04B40L2C/C04B40L4U)
+
+- [#senior-dev-mentors]: connects staff with Zeal mentors to coordinate meetings and involvement for Capstone projects
+
+3. **LEARN Jumpstart** is used through a Jumpstart weekend. Documentation for managing users to this workspace can be found on the [Jumpstart Trello Board](https://trello.com/b/BYycV15b/jumpstart).
+
+- [#jumpstart-students]: for every Jumpstart, students/volunteers who have participated in previous Jumpstart Weekends need to be deactivated from the channel. This may require permissions to do so.
+
+- [#volunteers]: to coordinate with Jumpstart volunteers
 
 You will eventually join other channels as well including various cohort channels and the channels created by students entering capstone projects.
 
@@ -26,7 +36,10 @@ You will eventually join other channels as well including various cohort channel
 
 Zoom is for video conferencing. 
 
-For steps on setting up breakout rooms, hosting, etc: [ Zoom ](./managing-zoom.md)
+- [For steps on setting up breakout rooms, hosting, etc](./managing-zoom.md)
+
+- [For recording with Zoom](./recording-lecture.md)
+
 
 ### GitHub
 
@@ -78,8 +91,8 @@ Google drive contains many of the documents related to non-curriculum related ta
 
 There are two main Google Drives:
 
-1. Administrative: Documents related to organizing the class (e.g. lesson plan calendar, attendance, pairing, surveys, assessment reviews, etc)
-2. LEARNers Cohort: Documents/resources for students to have access to (e.g. link to lecture videos, retrospective notes, sign-up sheets)
+1. [Administrative](https://drive.google.com/drive/folders/1c6oemWgdoOGexGmNNFoxUXB2U1Dq1EnO): Documents related to organizing the class (e.g. lesson plan calendar, attendance, pairing, surveys, assessment reviews, etc)
+2. [LEARNers Cohort](https://drive.google.com/drive/folders/1IU_5AAJABbpmGp9m0P7iAfFa0UPRVpjc): Documents/resources for students to have access to (e.g. link to lecture videos, retrospective notes, sign-up sheets)
 
 ### Trello
 
@@ -89,9 +102,9 @@ For instructors, tasks/projects outside of the classroom are documented in Trell
 Trello is also used for student project management for Capstone projects. 
 
 There are four main boards:
-1. [ Events ](https://trello.com/b/ofzfjXLM/events) tracks all LEARN events: specifically evening/weekend workshops that instructors will be leading have their own cards 
-2. [ Jumpstart ](https://trello.com/b/BYycV15b/jumpstart): for each Jumpstart, a copy of the "Master To Do Checklist" is created and tasks within this checklist are used to prepare for the weekend
-3. [ Classroom Admin Trello Board ](https://trello.com/b/dQBMlYpI/classroom-admin): tasks around curriculum updates. Please read through [Classroom Admin ReadMe](./classroom-admin-trello.md) to get an understand of how masterlists are used.
+1. [Events Board](https://trello.com/b/ofzfjXLM/events) tracks all LEARN events: specifically evening/weekend workshops that instructors will be leading have their own cards 
+2. [Jumpstart Board](https://trello.com/b/BYycV15b/jumpstart): for each Jumpstart, a copy of the "Master To Do Checklist" is created and tasks within this checklist are used to prepare for the weekend
+3. [Classroom Admin Trello Board](https://trello.com/b/dQBMlYpI/classroom-admin): tasks around curriculum updates. Please read through [Classroom Admin ReadMe](./classroom-admin-trello.md) to get an understand of how masterlists are used.
 
 Other boards:
 - [ Career Services & Internship ](https://trello.com/b/Xl22q6Ry/career-services-internship)

@@ -132,7 +132,7 @@ Each person answers the question and tells the group a little bit about their st
 
 Within this document, please indicate which questions have been used (and for which cohort) to prevent repeating a question.
 
-**Note for Remote:** In a virtual classroom, we require everyone turn their camera on during class check in. The response from the students can be a wave rather than an audible "welcome." The instructors will post the check in question and a list of the students names in random order each morning to both the class Slack channel and the Zoom chat.
+**Note for Remote:** In a [virtual classroom](./virtual-classroom.md), we require everyone turn their camera on during class check in. The response from the students can be a wave rather than an audible "welcome." The instructors will post the check in question and a list of the students names in random order each morning to both the class Slack channel and the Zoom chat.
 
 
 ### Plan for the Day
@@ -445,8 +445,6 @@ Providing feedback is less about grading student performance than it is about ge
 
 Tech talk feedback is aggregated and delivered to the student during a [one-on-one](#one-on-one) with an instructor.
 
-[ Back to Table of Contents ](./README.md#instructor-handbook)
-
 ## Jumpstart & Mini-Workshops
 
 ### Jumpstart
@@ -463,3 +461,4 @@ Currently there are four mini-workshops:
 2. [Building your first website](https://github.com/LEARNAcademy/build-your-own-website)
 3. [Understanding Dev Tools](https://github.com/LEARNAcademy/workshop-dev-tools)
 
+[ Back to Table of Contents ](./README.md#instructor-handbook)
