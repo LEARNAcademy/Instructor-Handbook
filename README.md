@@ -17,24 +17,23 @@ This document is intended to help get you up to speed and navigating the classro
   - [ One on Ones ](#one-on-ones)
   - [ Virtual Classroom Notes ](./virtual-classroom.md)
 - [ Instructor Tools ](./instructor-tools.md)
+  - [ Slack ](./operations.md#slack)
+  - [ Zoom ](./managing-zoom.md)
   - [ GitHub ](./instructor-tools.md#github)
   - [ GitHub Classroom ](./instructor-tools.md#github-classroom)
-  - [ GitHub Projects ](./instructor-tools.md#github-projects)
+  - [ Google Drive ](./instructor-tools.md#google-drive)
+  - [ Trello ](./operations.md#trello)
+  - [ HubSpot ](./instructor-tools.md#hubspot)
   - [ YouTube ](./instructor-tools.md#youtube)
   - [ Live Captioning ](./instructor-tools.md#live-captioning)
-  - [ Google Drive ](./instructor-tools.md#google-drive)
-  - [ HubSpot ](./instructor-tools.md#hubspot)
-  - [ One on One Form ](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit)
 - [ Operations ](./operations.md)
   - [ Staff Meetings ](./operations.md#staff-meetings)
   - [ Instructor Meetings ](./operations.md#instructor-meetings)
-  - [ Slack ](./operations.md#slack)
-  - [ Trello ](./operations.md#trello)
   - [ Classroom Inventory ](./operations.md#classroom-inventory)
   - [ Station Inventory ](./operations.md#station-inventory)
   - [ Troubleshooting Equipment ](./operations.md#troubleshooting-equipment)
 - [Provisioning Machines](#provisioning-machines)
-  - [Provision Repo](https://github.com/LEARNAcademy/provision)
+  - [ Provision Repo ](https://github.com/LEARNAcademy/provision)
   - [ Classroom Machines ](#classroom-machines)
   - [ Remote Classroom Macbooks ](./laptop-provisioning.md)
   - [ LEARN Internship Loaner Machines ](#learn-loaner-machines)
@@ -49,6 +48,7 @@ This document is intended to help get you up to speed and navigating the classro
   - [ Leading up to Tech Talks ](#leading-up-to-tech-talks)
   - [ Preparation ](#preparation)
   - [ Feedback ](#feedback)
+- [ Jumpstart & Mini-workshops](#jumpstart--mini-workshops)
 
 ## Instruction
 
@@ -106,7 +106,7 @@ Here is an example of a previous cohort syllabus: [ Bravo 2020 Syllabus ](https:
 
 When giving a lesson, you will typically work from the material on the cohort syllabus.
 
-**Note**: The syllabus is a living document. For the workflow on pushing changes to the syllabus and to cohort syllabi follow this [ link ](https://github.com/LEARNAcademy/Syllabus/wiki) to the syllabus wiki.
+**Note**: The syllabus is a living document. For the workflow on pushing changes to the syllabus and to cohort syllabi follow this [ link ](https://github.com/LEARNAcademy/Syllabus/wiki) to the syllabus wiki. Also, please follow style guidelines outlined [here](#TBA).
 
 ### Lesson Planning
 
@@ -128,7 +128,11 @@ First a question is posed to the group. Some examples of past questions include:
 
 Each person answers the question and tells the group a little bit about their status coming into the day (mood/fears/situation). When they are done, they complete their check in by saying "I'm checking in". To which the group replies "Welcome". This continues until everyone is checked in.
 
-**Note for Remote:** In a virtual classroom, we require everyone turn their camera on during class check in. The response from the students can be a wave rather than an audible "welcome." The instructors will post the check in question and a list of the students names in random order each morning to both the class Slack channel and the Zoom chat.
+[List of questions in Google Drive can be found here](https://docs.google.com/document/d/1h4VtVJIL5GlhZrsxX6dVQmEM2SL638r87SjqoShqYoU/edit?usp=sharing)
+
+Within this document, please indicate which questions have been used (and for which cohort) to prevent repeating a question.
+
+**Note for Remote:** In a [virtual classroom](./virtual-classroom.md), we require everyone turn their camera on during class check in. The response from the students can be a wave rather than an audible "welcome." The instructors will post the check in question and a list of the students names in random order each morning to both the class Slack channel and the Zoom chat.
 
 
 ### Plan for the Day
@@ -167,12 +171,42 @@ In the past we've used a couple of formats.
 - Loss: Something that is still confusing or was difficult this week
 - Each person has the opportunity to reflect and share with the team what was a win and a loss for the week
 
-### One on Ones
-One on ones are an opportunity for the instructors to meet with the students individually to check in. One on ones with the instruction team typically take place during weeks 3, 9, and 12.
+### One-on-Ones
+One-on-ones are an opportunity for the instructors to meet with the students individually to check-in. One-on-ones with the instruction team typically take place the week before the cohort begins, and during weeks 3, 9, and 12.
 
-The students will also have a one on one during week 7 with the career services manager regarding professional development.
+Notes from each one-on-one are documented in [HubSpot](./student-progress-hubspot.md).
+
+The students will also have a one-on-one during week 7 with the career services manager regarding professional development.
+
+It is also important to emphasize that the one-on-one is time allocated for doing what they need. Sometimes, it might be that they need to talk about group dynamics, anxieties, etc. Other times, it might mean that they need to pair-program on a problem so that they can more thoroughly understand a concept.
 
 The structure of these meetings are typically freeform. It is left to the discretion of the instructor and student to discuss what is most helpful for the student. As a general guide, it is helpful to discuss the following:
+
+**Week 0:**
+- Motivations and decision process to join the full time course
+- If they have a vision about what happens after the course
+- What background do they have in programming? At college or professionally
+- How have they found the online tutorials?
+- Do they know what kind of learner they are?
+- What technical equipment do they have at home?
+- Remind them of what they should be doing to prepare for the first day of class
+- Logistics for what a regular day looks like and what will be covered in the 12 weeks in class
+- Expectations in terms of pair programming, collaboration and involvement in community
+- Appearance, Etiquette and Professional Conduct
+- This meeting is also an opportunity for students to ask questions about any and all aspects of the course.
+
+Additional questions:
+- What do you do when you get stuck?
+- How do you find solutions to the problem you are currently facing?
+- How long do you usually try to find a solution yourself before asking for help?
+- How do you normally take notes?
+- How comfortable do you feel asking questions in the middle of a lecture?
+- How do you plan to manage a work-life balance?
+- How do you track deadlines?
+- How much out-of-classroom time do you plan to spend reviewing what you learned that day?
+- How do you learn? Do you need to process information or do you absorb quickly?
+- What do you think the difference is between a bootcamp and a regular class? (Goes into expectations of the program, not needing to memorize everything, ok to google, etc.)
+- What kind of student are you?
 
 **Week 3:**
 - How the student is settling in at LEARN
@@ -188,16 +222,6 @@ The structure of these meetings are typically freeform. It is left to the discre
 - Provide feedback on the student's tech talks
 - Discuss the outcome of the student's capstone project
 - Discuss the student's goals for internship
-
-Notes from each one on one are documented in [ HubSpot ](#hubspot).
-
-To document the notes use [ this Google form ](https://docs.google.com/forms/d/1YYbuipTsswmkb9FMjGEDXD2YoLiKZ_revxeUZ_B5NCU/edit)) or enter the notes directly into HubSpot:
-- Search for the appropriate student in the search bar
-- On the left hand column, scroll down to `view all properties`
-- In the `All properties` list, scroll to the bottom and find the `1 on 1 Questions`
-- Select the appropriate Check in Notes (1st, 2nd, 3rd)
-- Include the date, the name of the person who conducted the one on one, and the pertinent details of your chat
-- Save!
 
 ## Provisioning Machines
 
@@ -233,36 +257,63 @@ Here is a broad breakdown of those tasks:
 **Admin/Facilitation**
 - Classroom Inventory
 - [Station Inventory](#station-inventory)
-- Attendance Issues
+- [Attendance Issues](./attendance-issues.md)
 - Tuesday [Yoga](#yoga) Setup
 - PD Schedule Coordination
 - [Station Imaging](#machine-imaging)
-
-**Jumpstart**
-- [Jumpstart Trello](https://trello.com/b/BYycV15b/jumpstart) for Prep and Planning
-- Instructor/ TA / Admin Scheduling
-- Monday Email to Participants
-- Communication via Slack for All Involved
-- Meal planning
-- Food ordering and delivery
-- Jump Drive Setup
-- Curriculum Folders
 
 ### Attendance
 
 Attendance is taken daily and tracked in the LEARN Google drive with a form [like this](https://docs.google.com/spreadsheets/d/1VOQx_bi_tPLPkTqkzCNya1TiwfCoMQg4sJGAllraY98/edit#gid=0). Students are expected to be in class everyday from 9-5. If a student misses the class check in the student is considered late. Habitual tardiness or absences put the student at risk to be disqualified for internship. The full absence policy can be found [here](./attendance-issues.md).
 
 ### Assessments
-Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. Full details of the [assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. Once submitted, the instructors:
--  Review the code and short answers and give feedback with comments in GitHub
-- If the assessment is complete and up to par, the instructor can approve the request
+Assessments are given every Friday afternoon for the first six weeks of class. The assessments are individual assignments that combine code challenges and short answer conceptual questions. Assessments are due before the start of class the following Monday. The students are responsible for submitting their assessments via pull request. For full details of the [git workflow assessment process](https://github.com/LEARNAcademy/Syllabus/blob/master/tools_and_resources/assessments.md) are in the syllabus. 
+
+[Here is a quick reference to assessment repos](./instructor-tools.md#github-classroom-assignments)
+
+Once submitted, the instructors:
+- Review the code and short answers and give feedback with comments in GitHub
+- If the assessment is complete and up to par (see Grading Scale below), the instructor approves the pull request.
 - Once the pull request is approved, the student will merge their code
-- To track this process, a google form [like this](https://docs.google.com/spreadsheets/d/15a68xRUube8kWDl3YE_0ziXHfB2Rzbo3YDRTRWLx3n0/edit#gid=0) is kept in the LEARN Google drive
-- Assessments serve as a tool to identify students who need may need additional help or one-on-one attention
+- To track student process, a Google Sheet is used to stored notes about the assessment and feedback provided to the student. This document lives in the Admin Google Drive: `LEARN Academy > Classroom > \*Cohort Records and Documentation > Select the year the cohort is in > Select the cohort`. At the end of each cohort, these assessment and feedback info is transferred to HubSpot. (We track in the Google Sheet first, then transfer to HubSpot because it's quicker and easier to use week-to-week.)
+- Assessments serve as a tool to identify students who need may need additional help or one-on-one attention. Reviewers should surface concerns to instruction staff if there are clear signs of thoughtless copy & pasting.
 
-The goal of assessments is to allow the student to self-evaluate. Assessments are reviewed by the instruction team but not graded.
+#### Reviewing Assessments
 
-It is important to communicate to the students the intention and goal of the assessments. This will often need to be reestablished throughout the course. 
+The goal of assessments is to allow the student to self-evaluate. While we have primarily not graded assessments, we're moving towards providing a marker of progress/proficiency on assessments as documented in the [Course Catalogue](https://docs.google.com/document/d/1xU9dPvHPIcHHuZakHInZS4XVQbUBmdH--UtNdOhnf38/edit?usp=sharing).
+
+The grading scale as of 3/25/2021 is as follows:
+- **Proficient**: The student can put concepts together to form a whole, creating a new meaning or structure and make judgements about the value of the concepts or materials. 
+- **Competent**: The student can apply the concepts in particular situations and/or separate concepts into component parts analyzing their organizational structure.
+- **Advanced Beginner**: The student can recite memorized information about the concepts and/or demonstrate a basic understanding of the concepts by explaining them in his or her own words.
+- **Incomplete**: An attempt has not been made on one or more questions in the assessment
+
+#### Assessment Review Checklist
+
+Things to account for when considering completeness of an assessment:
+- Did the student attempt all questions/tests (even with only pseudocode)? 
+- Were tests for each problem run? (evidenced by package.json file for jest testing)
+- Did the student create a proper pull request to submit assessment?
+
+Note: An attempt at a solution can be defined as: 
+- a complete implementation of a solution
+- a complete solution in pseudocode without code implementation
+- a code implementation that does not run properly and notes outlining what the student attempted and where they got stuck
+- an incomplete code implementation that includes pseudocode outlining their flow of logic
+- interview answers in both the "your answer" and "researched answer" sections
+- an attempt to provide definitions for all of the "looking ahead" terms
+
+#### Feedback
+
+It is important to communicate to the students the intention and goal of the assessments and grading scale. This will often need to be reestablished throughout the course. 
+
+Feedback should be provided when:
+- an answer is incomplete or does not run
+- a student asks a question in their comments or explains where they got stuck
+- the solution runs but could be more efficient (like nested for loops or if statements)
+- a solution is done very well (leave celebratory feedback!)
+- it's clear the student came to the solution easily and could use a challenge
+- whenever the reviewer finds it necessary to provide additional guidance or information to the student
 
 ### Yoga
 
@@ -323,9 +374,9 @@ Ideally, the projects are fully deployed *prior* to the Final Client Check In.
 
 **Code Reviews (Reviewing Pull Requests)**
 
-Reviewing pull requests on the capstone projects becomes a one of the main tasks for instructors during this phase of the program. It is an opportunity for instructors to fill in some of the best practice gaps and work in the some real world conceptual and domain knowledge.
+Reviewing pull requests on the capstone projects becomes one of the main tasks for instructors during this phase of the program. It is an opportunity for instructors to fill in some of the best practice gaps and work in the some real world conceptual and domain knowledge.
 
-Comment up those PRs!
+Comment up those PRs! 
 
 It is expected that you will bring your best practices with you along with your PR standards, some of which may be listed here. But you can start with these:
 
@@ -333,6 +384,7 @@ It is expected that you will bring your best practices with you along with your 
 - Recommend deleting broken/incomplete/commented out code
 - Draw attention to opportunities to refactor (DRY up or otherwise clean up implementation)
 - Recommend removing logs (`console.log()`/`puts`/`pp`)
+- Remind them about writing tests for their implementation
 
 **Client Check Ins**
 
@@ -391,6 +443,22 @@ Both admin and instruction staff take part in providing tech talk feedback.
 
 Providing feedback is less about grading student performance than it is about getting students comfortable with giving a tech talk and providing tips on how to improve a talk.
 
-Tech talk feedback is aggregated and delivered to the student during a [one on one](#one-on-one) with an instructor.
+Tech talk feedback is aggregated and delivered to the student during a [one-on-one](#one-on-one) with an instructor.
+
+## Jumpstart & Mini-Workshops
+
+### Jumpstart
+
+The goal of Jumpstart is to familiarize potential students with the day-to-day experience they would have within a cohort.
+- Visit [Jumpstart Trello](https://trello.com/b/BYycV15b/jumpstart) for prep and planning tasks, TA handbook, information email templates that needs to be sent to attendees, and links to Google Drive for course materials
+
+### Mini-Workshops
+
+The goal of mini-workshops is to generate interest and help people with no coding experience build foundational understanding so that when they eventually attend Jumpstart, it isn't as intimidating and overwhelming. While the mini-workshop is a series, the approach for each workshop is that attendees have no coding experience and are not required to have attended any other mini-workshop.
+
+Currently there are four mini-workshops:
+1. WTF is Coding?
+2. [Building your first website](https://github.com/LEARNAcademy/build-your-own-website)
+3. [Understanding Dev Tools](https://github.com/LEARNAcademy/workshop-dev-tools)
 
 [ Back to Table of Contents ](./README.md#instructor-handbook)

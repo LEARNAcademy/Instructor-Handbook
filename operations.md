@@ -18,43 +18,6 @@ These meetings are also typically held on a weekly basis. This is when instructo
 
 It's worth noting that many of the above items are often done ad hoc throughout the course.
 
-### Slack
-
-Slack is the main channel of communication within LEARN. You will use it to coordinate both with staff and students.
-
-LEARN Staff has a paid Slack account that is separate from the community account.
-
-The dedicated instructor channel is here: [ Teachers Channel ](https://app.slack.com/client/TV83K2TV0/C010CSRCT40)
-
-The general channel is for all staff communication:
-- [ General Channel ](https://app.slack.com/client/TV83K2TV0/CV83K3AH0)
-
-There is a channel that connects LEARN with Notch8's Slack account. This can be used for direct messages to anyone on the Notch8 team as well as requesting assistance from the Notch8 developers.
-- [ LEARN-Notch8 Channel ](https://app.slack.com/client/TV83K2TV0/C010VGJFPCJ)
-
-
-The LEARN community account will hold all the cohort channels as well as the *everybody* channel. The *everybody* channel connects all alumni, current students, staff, and community partners.
-- [ Everybody Channel ](https://app.slack.com/client/T04B40L2C/C04B40L4U)
-
-You will eventually join other channels as well including various cohort channels and the channels created by students entering capstone projects.
-
-
-### Trello
-
-Trello is used throughout Learn to track our tasks and objectives.
-
-The classroom and curriculum tasks are tracked here: [ Classroom Admin Trello Board ](https://trello.com/b/dQBMlYpI/classroom-admin)
-
-For a guide to the Classroom Admin Trello board, follow this link: [ Guide to Classroom Trello ](./classroom-admin-trello.md)
-
-Be sure to ask to be added to the following boards if interested:
-
-- [ Events ](https://trello.com/b/ofzfjXLM/events)
-- [ Career Services & Internship ](https://trello.com/b/Xl22q6Ry/career-services-internship)
-- [ Marketing ](https://trello.com/b/q2s0uEzR/marketing)
-- [ Operations](https://trello.com/b/saxLJBxV/operations)
-
-
 ### Classroom Inventory
 
 Classroom inventory is checked on a weekly basis, ideally before staff meetings when any needs can be brought to the attention of admin staff. The administrative assistance helps facilitate tracking and ordering inventory.
