@@ -145,7 +145,8 @@ Additional useful information to put on the board are the scheduled speakers and
 
 ### Weekly Retros
 
-Weekly retros give the students and staff an opportunity to reflect on the week.
+Weekly retros give the students and staff an opportunity to reflect on the week. 
+Retrospectives usually run 15-30 minutes long and should not take the place of checkout when possible, 
 
 In the past we've used a couple of formats.
 
@@ -170,6 +171,24 @@ In the past we've used a couple of formats.
 - Win: Something that went well this week or felt successful this week
 - Loss: Something that is still confusing or was difficult this week
 - Each person has the opportunity to reflect and share with the team what was a win and a loss for the week
+
+**Paired Questions**
+(Useful for reviewing the Weekly Goals) 
+
+- What feels solid:
+- What feels shaky:
+
+- What helps you be successful?
+- If you could change one thing, what would it be?
+
+- What are some big takeaways from this week?
+- What was hard this week?
+
+
+These formats are helpful for initiating conversation with and amongst the Students. 
+  
+Inside each classes LEARNers Drive you can find a document that will track the Weekly Check-in question and Weekly Retrospective. 
+These documents should be updated each time Weekly goals are set and each time a Weekly retrospective takes place. This document is available to the students so that they can review their goals and takeaways from the week at any time.
 
 ### One-on-Ones
 One-on-ones are an opportunity for the instructors to meet with the students individually to check-in. One-on-ones with the instruction team typically take place the week before the cohort begins, and during weeks 3, 9, and 12.
