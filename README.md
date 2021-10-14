@@ -145,8 +145,6 @@ Additional useful information to put on the board are the scheduled speakers and
 
 ### Weekly Retros
 
-Weekly retros give the students and staff an opportunity to reflect on the week.
-
 In the past we've used a couple of formats.
 
 **Liked | Learned | Longed for**
@@ -170,6 +168,26 @@ In the past we've used a couple of formats.
 - Win: Something that went well this week or felt successful this week
 - Loss: Something that is still confusing or was difficult this week
 - Each person has the opportunity to reflect and share with the team what was a win and a loss for the week
+
+**Paired Questions**
+
+The goal of "Paired Questions" is to help the students look at what they have experienced through the week in different lights. 
+The questions are insightful enough to be leading and generic enough to be interpreted by each individual in a meaningful way. 
+
+- Ask the questions individually as a general topic to the entire class. 
+- Place each question in the zoom chat or the slack channel once it is asked.
+- Give the students some time to respond as it may take a moment for them to process the question.
+
+examples: 
+- What feels solid?
+- What feels shaky?
+
+- What helps you be successful?
+- If you could change one thing, what would it be?
+
+- What are some big takeaways from this week?
+- What was hard this week?
+
 
 ### One-on-Ones
 One-on-ones are an opportunity for the instructors to meet with the students individually to check-in. One-on-ones with the instruction team typically take place the week before the cohort begins, and during weeks 3, 9, and 12.
